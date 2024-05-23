@@ -1,0 +1,1 @@
+using from './pokemons/annotations';
