@@ -1,152 +1,1026 @@
 numero,nombre,tipo1,tipo2,altura,peso,descripcion
-1,Bulbasaur,Planta,Veneno,0.7,6.9,"Una rara semilla fue plantada en su espalda al nacer. La planta brota y crece con este Pokémon."
-2,Ivysaur,Planta,Veneno,1.0,13.0,"Cuando la flor de su espalda florece, desprende un dulce aroma. El aroma tiene el poder de calmar a las personas."
-3,Venusaur,Planta,Veneno,2.0,100.0,"La planta florece cuando absorbe energía solar. Permanece quieto para absorber la mayor cantidad de luz posible."
-4,Charmander,Fuego,,0.6,8.5,"Prefiere las cosas calientes. Dicen que cuando llueve le sale vapor de la punta de la cola."
-5,Charmeleon,Fuego,,1.1,19.0,"Cuando encuentra un oponente, se enfurece, y la llama de su cola arde intensamente, con un tono azulado."
-6,Charizard,Fuego,Volador,1.7,90.5,"Lanza llamas que derriten absolutamente cualquier cosa. Su aliento de fuego causa quemaduras que nunca sanan."
-7,Squirtle,Agua,,0.5,9.0,"Cuando retrae su largo cuello en su caparazón, dispara agua a una presión increíble."
-8,Wartortle,Agua,,1.0,22.5,"A menudo es visto nadando de espaldas. La punta peluda de su cola es popular entre los coleccionistas."
-9,Blastoise,Agua,,1.6,85.5,"Lanza agua a una presión increíble. Su precisión es tal que puede acertar a un bote pequeño a más de 90 metros."
-10,Caterpie,Bicho,,0.3,2.9,"Para protegerse, despide un hedor horrible desde sus antenas. Sabe trepar muy bien."
-11,Metapod,Bicho,,0.7,9.9,"En esta fase de su vida, se vuelve vulnerable, ya que su cuerpo es blando y aún se está desarrollando."
-12,Butterfree,Bicho,Volador,1.1,32.0,"En combate, aletea a gran velocidad para lanzar polvos tóxicos. Sus alas están cubiertas de escamas."
-13,Weedle,Bicho,Veneno,0.3,3.2,"Su aguijón venenoso es muy peligroso. Pasa sus días comiendo hojas en los bosques."
-14,Kakuna,Bicho,Veneno,0.6,10.0,"Aunque está inmóvil, dentro de su caparazón duro está evolucionando. Es vulnerable a los ataques."
-15,Beedrill,Bicho,Veneno,1.0,29.5,"Vuelo en enjambres para atacar a sus presas con sus aguijones afilados. Es muy territorial."
-16,Pidgey,Normal,Volador,0.3,1.8,"Es muy dócil y puede capturarse fácilmente. Prefiere evitar conflictos y vive en praderas y bosques."
-17,Pidgeotto,Normal,Volador,1.1,30.0,"Patrulla su enorme territorio con gran agilidad. A menudo captura pequeñas presas."
-18,Pidgeot,Normal,Volador,1.5,39.5,"Con su velocidad supersónica, vuela en círculos sobre su territorio y ahuyenta a los intrusos."
-19,Rattata,Normal,,0.3,3.5,"Es un Pokémon extremadamente cauteloso. Aunque es pequeño, su mordisco es potente."
-20,Raticate,Normal,,0.7,18.5,"Roen todo lo que encuentran con sus dientes de crecimiento continuo. Son agresivos al defender su territorio."
-21,Spearow,Normal,Volador,0.3,2.0,"Emite un chillido agudo para ahuyentar a los enemigos. Tiene una vista excelente."
-22,Fearow,Normal,Volador,1.2,38.0,"Vuela alto y rápido. Puede volar grandes distancias sin descanso."
-23,Ekans,Veneno,,2.0,6.9,"Se enrosca para dormir. Cuando detecta al enemigo, levanta la cabeza para intimidar."
-24,Arbok,Veneno,,3.5,65.0,"El dibujo en su abdomen varía entre diferentes regiones. Constrige a su presa con fuerza."
-25,Pikachu,Eléctrico,,0.4,6.0,"Si se le molesta, emite una descarga eléctrica. Vive en los bosques y almacena electricidad en sus mejillas."
-26,Raichu,Eléctrico,,0.8,30.0,"Almacena electricidad en su cuerpo. Si acumula demasiada, se vuelve agresivo."
-27,Sandshrew,Tierra,,0.6,12.0,"Se entierra en la arena para protegerse. Se enrolla para defenderse de los ataques."
-28,Sandslash,Tierra,,1.0,29.5,"Su espalda está cubierta de espinas afiladas que usa para atacar. Puede excavar a gran velocidad."
-29,Nidoran♀,Veneno,,0.4,7.0,"Usa sus grandes orejas para detectar el peligro. Si se siente amenazado, libera toxinas de su cuerno."
-30,Nidorina,Veneno,,0.8,20.0,"Es más tranquila cuando está con su grupo. Se vuelve violenta para proteger a sus crías."
-31,Nidoqueen,Veneno,Tierra,1.3,60.0,"Su cuerpo está cubierto de escamas duras. Usa su cuerpo para proteger a sus crías."
-32,Nidoran♂,Veneno,,0.5,9.0,"Sus cuernos contienen veneno. Cuando percibe el peligro, levanta sus orejas."
-33,Nidorino,Veneno,,0.9,19.5,"Es agresivo y ataca con el cuerno. El cuerno segrega un potente veneno."
-34,Nidoking,Veneno,Tierra,1.4,62.0,"Usa su gran cola para destruir cosas. Su piel es muy dura, casi como una armadura."
-35,Clefairy,Hada,,0.6,7.5,"Es conocido por bailar en la luz de la luna. Su baile atrae la atención de otros Pokémon."
-36,Clefable,Hada,,1.3,40.0,"Es increíblemente raro. Los avistamientos de Clefable se consideran un presagio de buena suerte."
-37,Vulpix,Fuego,,0.6,9.9,"La piel de su espalda es muy sensible al calor. Es vulnerable a la luz del sol intensa."
-38,Ninetales,Fuego,,1.1,19.9,"Cada una de sus nueve colas emite un brillo diferente. Son adoradas por las personas como portadoras de la suerte."
-39,Jigglypuff,Normal,Hada,0.5,5.5,"Canta una canción de cuna encantadora en la noche de luna llena. Las personas se duermen instantáneamente al escucharla."
-40,Wigglytuff,Normal,Hada,1.0,12.0,"Es muy suave y esponjoso. Siempre está lleno de energía."
-41,Zubat,Veneno,Volador,0.8,7.5,"Evita la luz solar porque odia la luz brillante. Es visto a menudo en cuevas oscuras."
-42,Golbat,Veneno,Volador,1.6,55.0,"Ataca en silencio y de repente. A menudo se alimenta de la sangre de los humanos y otros Pokémon."
-43,Oddish,Planta,Veneno,0.5,5.4,"Durante el día, se oculta en la tierra para evitar la luz solar. Saca su cuerpo por la noche para absorber los nutrientes del suelo."
-44,Gloom,Planta,Veneno,0.8,8.6,"Es muy maloliente. Desprende un hedor que repele a los enemigos y atrae a sus presas."
-45,Vileplume,Planta,Veneno,1.2,18.6,"Las esporas en su cuerpo pueden causar alergias estacionales. Es mejor no acercarse demasiado."
-46,Paras,Bicho,Planta,0.3,5.4,"Nace de un hongo parásito. El hongo absorbe los nutrientes de su hospedador mientras Paras se alimenta del hongo."
-47,Parasect,Bicho,Planta,1.0,29.5,"Su caparazón está hecho de hongos. Es muy valioso y a menudo es cazado por coleccionistas de hongos raros."
-48,Venonat,Bicho,Veneno,1.0,30.0,"Su pelaje suave repele el polvo y las bacterias. Se utiliza para hacer almohadas y peluches."
-49,Venomoth,Bicho,Veneno,1.5,12.5,"Las escamas en sus alas brillan con un polvo venenoso. A menudo es confundido con una mariposa."
-50,Diglett,Tierra,,0.2,0.8,"Vive bajo tierra. No sale a la superficie a menos que sienta peligro."
-51,Dugtrio,Tierra,,0.7,33.3,"Es la evolución de Diglett. Tres de ellos se unen para cavar túneles aún más grandes."
-52,Meowth,Normal,,0.4,4.2,"Adora las cosas brillantes. Pasa la noche recogiendo objetos brillantes y monedas."
-53,Persian,Normal,,1.0,32.0,"Es elegante y sofisticado. Se mueve silenciosamente en busca de presas."
-54,Psyduck,Agua,,0.8,19.6,"A menudo le duele la cabeza. Cuando el dolor se vuelve intenso, usa poderes psíquicos."
-55,Golduck,Agua,,1.7,76.6,"Es un nadador excelente. Usa su agilidad y destreza para cazar en el agua."
-56,Mankey,Lucha,,0.5,28.0,"Es muy temperamental. Si se enfurece, pierde el control y no para hasta que se calma."
-57,Primeape,Lucha,,1.0,32.0,"Una vez enfurecido, no hay manera de calmarlo. Persigue a su enemigo hasta que lo atrapa."
-58,Growlithe,Fuego,,0.7,19.0,"Es muy leal y protegerá a su Entrenador hasta la muerte. A menudo es usado como Pokémon guardián."
-59,Arcanine,Fuego,,1.9,155.0,"Es famoso por su velocidad. Puede correr 10,000 kilómetros en 24 horas."
-60,Poliwag,Agua,,0.6,12.4,"Sus patas traseras aún no están bien desarrolladas. No puede caminar muy bien."
-61,Poliwhirl,Agua,,1.0,20.0,"Su cuerpo está siempre húmedo y resbaladizo. A menudo se usa para combates."
-62,Poliwrath,Agua,Lucha,1.3,54.0,"Su cuerpo es extremadamente musculoso. Es tan fuerte que puede cruzar el océano nadando."
-63,Abra,Psiquico,,0.9,19.5,"Duerme 18 horas al día. Usa poderes psíquicos incluso mientras duerme."
-64,Kadabra,Psiquico,,1.3,56.5,"Emite ondas alfa especiales desde su cuerpo que inducen dolores de cabeza en las personas cercanas."
-65,Alakazam,Psiquico,,1.5,48.0,"Su cerebro es increíblemente poderoso. Sus habilidades psíquicas son formidables."
-66,Machop,Lucha,,0.8,19.5,"Es muy fuerte y puede levantar muchas veces su propio peso. Le encanta entrenar y mejorar sus habilidades."
-67,Machoke,Lucha,,1.5,70.5,"Está tan musculoso que usa un cinturón especial para contener su fuerza. Ayuda a la gente con trabajos pesados."
-68,Machamp,Lucha,,1.6,130.0,"Puede lanzar mil puñetazos en dos segundos. Sus cuatro brazos le permiten realizar múltiples tareas a la vez."
-69,Bellsprout,Planta,Veneno,0.7,4.0,"Prefiere los lugares cálidos y húmedos. Atrapa a sus presas con sus lianas y las disuelve con ácido."
-70,Weepinbell,Planta,Veneno,1.0,6.4,"Se cuelga de los árboles con sus lianas. Atrae a presas con un aroma dulce y pegajoso."
-71,Victreebel,Planta,Veneno,1.7,15.5,"Las víctimas son atraídas por el dulce aroma de su saliva. Luego son digeridas en su vientre ácido."
-72,Tentacool,Agua,Veneno,0.9,45.5,"Es difícil de ver en el agua porque es casi transparente. Ataca a sus presas con tentáculos venenosos."
-73,Tentacruel,Agua,Veneno,1.6,55.0,"Dispara rayos de energía desde su boca. Es muy peligroso acercarse cuando está enfadado."
-74,Geodude,Roca,Tierra,0.4,20.0,"El magnetismo de la piedra en su cabeza les permite flotar en el aire durante breves períodos."
-75,Graveler,Roca,Tierra,1.0,105.0,"Le encanta rodar montañas abajo. La velocidad puede ser peligrosa."
-76,Golem,Roca,Tierra,1.4,300.0,"Una vez que empieza a rodar, es difícil detenerlo. Sus brazos están hechos de rocas fundidas."
-77,Ponyta,Fuego,,1.0,30.0,"Es muy rápido y puede correr a velocidades increíbles. Su melena arde cuando está enfadado."
-78,Rapidash,Fuego,,1.7,95.0,"Cuando corre, emite llamas de su melena y cola. Es una vista impresionante de ver."
-79,Slowpoke,Agua,Psiquico,1.2,36.0,"Es extremadamente lento y distraído. A menudo se le ve mirando al río sin razón aparente."
-80,Slowbro,Agua,Psiquico,1.6,78.5,"El pescado que muerde la cola libera un agente químico que lo hace mucho más lento."
-81,Magnemite,Eléctrico,Acero,0.3,6.0,"Los imanes en su cuerpo le permiten flotar y moverse. Se atraen mutuamente si hay más de uno."
-82,Magneton,Eléctrico,Acero,1.0,60.0,"Tres Magnemite se combinan para formar un Magneton. Pueden generar suficiente electricidad para encender una ciudad."
-83,Farfetch'd,Normal,Volador,0.8,15.0,"Lleva un puerro verde como arma. Si lo pierde, se va de viaje para encontrar uno nuevo."
-84,Doduo,Normal,Volador,1.4,39.2,"Es muy rápido y siempre corre a grandes velocidades. No puede volar debido a sus pequeñas alas."
-85,Dodrio,Normal,Volador,1.8,85.2,"Tiene tres cabezas que piensan y actúan de forma independiente. Corre a velocidades de hasta 60 mph."
-86,Seel,Agua,,1.1,90.0,"Nada habilmente usando sus aletas traseras y cola. Es un experto en nadar en aguas frías."
-87,Dewgong,Agua,Hielo,1.7,120.0,"Nada muy rápido y es excelente en batallas acuáticas. El pelaje es muy apreciado por los cazadores."
-88,Grimer,Veneno,,0.9,30.0,"Es tan maloliente que lo huele a distancia. Lo único que puede hacer es repugnar y despedir a los demás."
-89,Muk,Veneno,,1.2,30.0,"Su cuerpo es viscoso. Cuando se mezcla con la suciedad en el suelo, puede pasar desapercibido."
-90,Shellder,Agua,,0.3,4.0,"Usa su concha para protegerse. Si encuentra una roca plana y pulida, la considerará su hogar."
-91,Cloyster,Agua,Hielo,1.5,132.5,"La concha es muy resistente y no se rompe fácilmente. Se cierra herméticamente para protegerse de los depredadores."
-92,Gastly,Fantasma,Veneno,1.3,0.1,"Es principalmente gas venenoso. Cuando la temperatura cae por la noche, se convierte en un demonio oscuro."
-93,Haunter,Fantasma,Veneno,1.6,0.1,"Le encanta jugar bromas. Le gusta asustar a la gente al hacerse visible en lugares oscuros."
-94,Gengar,Fantasma,Veneno,1.5,40.5,"Cuando se le ve, se dice que da miedo y que trae mala suerte. Es peligroso encontrarlo de noche."
-95,Onix,Roca,Tierra,8.8,210.0,"Es muy largo y se enrosca alrededor de las montañas para descansar. Puede pesar más de 200 libras."
-96,Drowzee,Psiquico,,1.0,32.4,"Se alimenta de los sueños de la gente y puede adivinar lo que están soñando."
-97,Hypno,Psiquico,,1.6,75.6,"Usa un péndulo que hace que la gente se duerma. Hipnotiza a su enemigo antes de atacar."
-98,Krabby,Agua,,0.4,6.5,"Es muy agresivo y se enfurece con facilidad. Puede morder con sus poderosas pinzas."
-99,Kingler,Agua,,1.3,60.0,"La pinza más grande es muy poderosa y puede romper cualquier cosa. Es peligroso acercarse."
-100,Voltorb,Eléctrico,,0.5,10.4,"Almacena electricidad en su cuerpo. Puede explotar en cualquier momento."
-101,Electrode,Eléctrico,,1.2,66.6,"Almacena electricidad en su cuerpo. La bola roja en su cabeza actúa como un imán."
-102,Exeggcute,Planta,Psiquico,0.4,2.5,"Los huevos se desplazan en grupos de seis. Son muy sensibles al ruido."
-103,Exeggutor,Planta,Psiquico,2.0,120.0,"Es la evolución de Exeggcute. Tiene tres cabezas que piensan y actúan de forma independiente."
-104,Cubone,Tierra,,0.4,6.5,"Lleva una calavera que nunca se quita. Al parecer, la calavera es la de su madre."
-105,Marowak,Tierra,,1.0,45.0,"Su golpe con el hueso es muy poderoso. A menudo se dice que la muerte de su madre lo ha hecho más fuerte."
-106,Hitmonlee,Lucha,,1.5,49.8,"Es experto en patadas. Las patadas pueden ser tan rápidas como un rayo."
-107,Hitmonchan,Lucha,,1.4,50.2,"Es experto en puñetazos. Puede lanzar cien puñetazos en dos segundos."
-108,Lickitung,Normal,,1.2,65.5,"Su lengua es dos veces más larga que su cuerpo. Se la pasa lamiendo todo lo que encuentra."
-109,Koffing,Veneno,,0.6,1.0,"Lanza gases tóxicos de su cuerpo. El olor puede ser insoportable si te acercas demasiado."
-110,Weezing,Veneno,,1.2,9.5,"Dos Koffing se combinan para formar un Weezing. Su gas es aún más venenoso que el de un Koffing."
-111,Rhyhorn,Tierra,Roca,1.0,115.0,"Es muy fuerte y puede atravesar rocas con su cuerno. Corre a velocidades de hasta 25 mph."
-112,Rhydon,Tierra,Roca,1.9,120.0,"Tiene una piel muy dura. Puede correr a gran velocidad sin sentir el más mínimo impacto."
-113,Chansey,Normal,,1.1,34.6,"Es muy amable y siempre está cuidando de los demás. Es muy raro encontrar un huevo de Chansey."
-114,Tangela,Planta,,1.0,35.0,"Es muy escurridizo y difícil de atrapar. Usa sus lianas para enredar a sus presas."
-115,Kangaskhan,Normal,,2.2,80.0,"Protege a sus crías con su vida. Siempre está alerta y lista para atacar si percibe peligro."
-116,Horsea,Agua,,0.4,8.0,"Es muy pequeño y débil cuando nace. Se esconde entre la vegetación para evitar a los depredadores."
-117,Seadra,Agua,,1.2,25.0,"Su cola es muy poderosa y puede nadar a velocidades de hasta 150 mph."
-118,Goldeen,Agua,,0.6,15.0,"Es muy valiente y nada contra la corriente. Su cuerno puede atravesar rocas."
-119,Seaking,Agua,,1.3,39.0,"Es muy fuerte y nadador rápido. Puede atravesar las olas del océano con gran facilidad."
-120,Staryu,Agua,,0.8,34.5,"Nada elegantemente como si volara por el agua. Es un nadador muy ágil."
-121,Starmie,Agua,Psiquico,1.1,80.0,"Es muy rápido y puede nadar 100 millas por día. El núcleo brilla con siete colores diferentes."
-122,Mr. Mime,Psiquico,Hada,1.3,54.5,"Si alguien trata de molestar a su familia, usará sus poderes para crear barreras y atrapar al intruso."
-123,Scyther,Bicho,Volador,1.5,56.0,"Es muy rápido y ágil. Usa sus afiladas garras para desgarrar a sus enemigos en pedazos."
-124,Jynx,Hielo,Psiquico,1.4,40.6,"Emite extrañas ondas de energía que hipnotizan a sus enemigos y los hace hacer lo que quiera."
-125,Electabuzz,Eléctrico,,1.1,30.0,"La electricidad que produce puede ser tan poderosa como un rayo. A menudo es cazado por su piel brillante."
-126,Magmar,Fuego,,1.3,44.5,"Su cuerpo está siempre ardiendo. Si la llama se apaga, muere."
-127,Pinsir,Bicho,,1.5,55.0,"Su mandíbula es tan poderosa que puede aplastar cualquier cosa. No le teme a nada."
-128,Tauros,Normal,,1.4,88.4,"Es muy agresivo y no le teme a nadie. A menudo embiste a cualquier cosa que ve."
-129,Magikarp,Agua,,0.9,10.0,"Es completamente inútil en combate. Solo sabe nadar y saltar."
-130,Gyarados,Agua,Volador,6.5,235.0,"Es muy violento y causa destrucción. Se dice que su ira puede desencadenar tormentas."
-131,Lapras,Agua,Hielo,2.5,220.0,"Es muy amable y siempre ayuda a las personas en peligro. Es muy raro encontrar uno en la naturaleza."
-132,Ditto,Normal,,0.3,4.0,"Puede cambiar su forma a voluntad. Siempre intenta imitar a las personas o Pokémon a su alrededor."
-133,Eevee,Normal,,0.3,6.5,"Tiene una capacidad de adaptación increíble. Puede evolucionar en muchos tipos diferentes de Pokémon."
-134,Vaporeon,Agua,,1.0,29.0,"Su cuerpo es casi completamente agua. Puede controlar su densidad para cambiar de forma."
-135,Jolteon,Eléctrico,,0.8,24.5,"Su piel es como agujas. La electricidad está constantemente emanando de su cuerpo."
-136,Flareon,Fuego,,0.9,25.0,"Tiene un calor interno extremadamente alto. Las llamas siempre están ardiendo."
-137,Porygon,Normal,,0.8,36.5,"Está hecho completamente de código de computadora. Puede moverse libremente en el ciberespacio."
-138,Omanyte,Roca,Agua,0.4,7.5,"Vivió hace millones de años. Su caparazón se ha fosilizado y se ha convertido en piedra."
-139,Omastar,Roca,Agua,1.0,35.0,"Se mueve muy lentamente y prefiere no luchar. Usa su caparazón para protegerse."
-140,Kabuto,Roca,Agua,0.5,11.5,"Es extremadamente raro y solo se puede encontrar como un fósil. Se cree que vivió en mares poco profundos."
-141,Kabutops,Roca,Agua,1.3,40.5,"Usa sus afiladas cuchillas para atrapar a sus presas. Es muy raro verlo en estado salvaje."
-142,Aerodactyl,Roca,Volador,1.8,59.0,"Es un depredador aéreo. Puede volar a velocidades de hasta 150 mph."
-143,Snorlax,Normal,,2.1,460.0,"Duerme profundamente durante todo el día. Se despierta solo para comer y luego vuelve a dormir."
-144,Articuno,Hielo,Volador,1.7,55.4,"Es un pájaro legendario. Su cuerpo está cubierto de plumas de hielo que brillan con diferentes colores."
-145,Zapdos,Eléctrico,Volador,1.6,52.6,"Genera electricidad al batir sus alas. Puede causar tormentas eléctricas cuando vuela."
-146,Moltres,Fuego,Volador,2.0,60.0,"Es un pájaro legendario. Sus alas están cubiertas de llamas que nunca se apagan."
-147,Dratini,Dragón,,1.8,3.3,"Es un Pokémon muy raro. Vive en mares y ríos tranquilos."
-148,Dragonair,Dragón,,4.0,16.5,"Es muy bello y elegante. Puede volar libremente en el cielo sin sentir el más mínimo impacto."
-149,Dragonite,Dragón,Volador,2.2,210.0,"Es muy poderoso y puede derrotar a cualquier Pokémon con sus poderosos ataques. Es muy raro verlo."
-150,Mewtwo,Psiquico,,2.0,122.0,"Es un Pokémon creado artificialmente. Tiene habilidades psíquicas increíblemente poderosas."
-151,Mew,Psiquico,,0.4,4.0,"Es un Pokémon muy raro y legendario. Se dice que posee el ADN de todos los Pokémon."
+1,Bulbasaur,Grass,Poison,7,69,A strange seed was planted on its back at birth  The plant sprouts and grows with this POKéMON 
+2,Ivysaur,Grass,Poison,10,130,When the bulb on its back grows large  it appears to lose the ability to stand on its hind legs 
+3,Venusaur,Grass,Poison,20,1000,The plant blooms when it is absorbing solar energy  It stays on the move to seek sunlight 
+4,Charmander,Fire,,6,85,Obviously prefers hot places  When it rains  steam is said to spout from the tip of its tail 
+5,Charmeleon,Fire,,11,190,When it swings its burning tail  it elevates the temperature to unbearably high levels 
+6,Charizard,Fire,Flying,17,905,Spits fire that is hot enough to melt boulders  Known to cause forest fires unintentionally 
+7,Squirtle,Water,,5,90,After birth  its back swells and hardens into a shell  Powerfully sprays foam from its mouth 
+8,Wartortle,Water,,10,225,Often hides in water to stalk unwary prey  For swimming fast  it moves its ears to maintain balance 
+9,Blastoise,Water,,16,855,A brutal POKéMON with pressurized water jets on its shell  They are used for high speed tackles 
+10,Caterpie,Bug,,3,29,如果碰到牠頭上的觸角， 牠就會分泌強烈的臭味 來保護自己。
+11,Metapod,Bug,,7,99,This POKéMON is vulnerable to attack while its shell is soft  exposing its weak and tender body 
+12,Butterfree,Bug,Flying,11,320,In battle  it flaps its wings at high speed to release highly toxic dust into the air 
+13,Weedle,Bug,Poison,3,32,Often found in forests  eating leaves  It has a sharp venomous stinger on its head 
+14,Kakuna,Bug,Poison,6,100,Almost incapable of moving  this POKéMON can only harden its shell to protect itself from predators 
+15,Beedrill,Bug,Poison,10,295,It has three poisonous stingers on its forelegs and its tail  They are used to jab its enemy repeatedly 
+16,Pidgey,Normal,Flying,3,18,A common sight in forests and woods  It flaps its wings at ground level to kick up blinding sand 
+17,Pidgeotto,Normal,Flying,11,300,Very protective of its sprawling territorial area  this POKéMON will fiercely peck at any intruder 
+18,Pidgeot,Normal,Flying,15,395,When hunting  it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP 
+19,Rattata,Normal,,3,35,キバが２つ。とにかく　なんでも かじってみる。１ぴき　みつけたら ４０ぴきは　そこに　すんでるはず。
+20,Raticate,Normal,,7,185,Ses pattes arrière lui permettent de traverser les rivières  Il est toujours en quête de nourriture 
+21,Spearow,Normal,Flying,3,20,It flaps its small wings busily to fly  Using its beak  it searches in grass for prey 
+22,Fearow,Normal,Flying,12,380,With its huge and magnificent wings  it can keep aloft without ever having to land for rest 
+23,Ekans,Poison,,20,69,Moves silently and stealthily  Eats the eggs of birds  such as PIDGEY and SPEAROW  whole 
+24,Arbok,Poison,,35,650,It is rumored that the ferocious warning markings on its belly differ from area to area 
+25,Pikachu,Electric,,4,60,When several of these POKéMON gather  their electricity could build and cause lightning storms 
+26,Raichu,Electric,,8,300,Its long tail serves as a ground to protect itself from its own high-voltage power 
+27,Sandshrew,Ground,,6,120,Burrows deep underground in arid locations far from water  It only emerges to hunt for food 
+28,Sandslash,Ground,,10,295,Curls up into a spiny ball when threatened  It can roll while curled up to attack or escape 
+29,Nidoran-f,Poison,,4,70,Although small  its venomous barbs render this POKéMON dangerous  The female has smaller horns 
+30,Nidorina,Poison,,8,200,The female's horn develops slowly  Prefers physical attacks such as clawing and biting 
+31,Nidoqueen,Poison,Ground,13,600,Its hard scales provide strong protection  It uses its hefty bulk to execute powerful moves 
+32,Nidoran-m,Poison,,5,90,Stiffens its ears to sense danger  The larger its horns  the more powerful its secreted venom 
+33,Nidorino,Poison,,9,195,神經質且容易發脾氣打架。 當體內的腎上腺素增加時， 毒素的濃度也會提升。
+34,Nidoking,Poison,Ground,14,620,It uses its powerful tail in battle to smash  constrict  then break the prey's bones 
+35,Clefairy,Fairy,,6,75,Its magical and cute appeal has many admirers  It is rare and found only in certain areas 
+36,Clefable,Fairy,,13,400,A timid fairy POKéMON that is rarely seen  It will run and hide the moment it senses people 
+37,Vulpix,Fire,,6,99,At the time of birth  it has just one tail  The tail splits from its tip as it grows older 
+38,Ninetales,Fire,,11,199,Very smart and very vengeful  Grabbing one of its many tails could result in a 1000-year curse 
+39,Jigglypuff,Normal,Fairy,5,55,When its huge eyes light up  it sings a mysteriously soothing melody that lulls its enemies to sleep 
+40,Wigglytuff,Normal,Fairy,10,120,The body is soft and rubbery  When angered  it will suck in air and inflate itself to an enormous size 
+41,Zubat,Poison,Flying,8,75,因為沒有眼珠所以看不見東西。 會從口中發出超音波 來探測周圍的狀況。
+42,Golbat,Poison,Flying,16,550,Once it strikes  it will not stop draining energy from the victim even if it gets too heavy to fly 
+43,Oddish,Grass,Poison,5,54,During the day  it keeps its face buried in the ground  At night  it wanders around sowing its seeds 
+44,Gloom,Grass,Poison,8,86,The fluid that oozes from its mouth isn't drool  It is a nectar that is used to attract prey 
+45,Vileplume,Grass,Poison,12,186,It has the world’s largest petals  With every step  the petals shake out heavy clouds of toxic pollen 
+46,Paras,Bug,Grass,3,54,Burrows to suck tree roots  The mushrooms on its back grow by draw­ ing nutrients from the bug host 
+47,Parasect,Bug,Grass,10,295,A host-parasite pair in which the parasite mushroom has taken over the host bug  Prefers damp places 
+48,Venonat,Bug,Poison,10,300,Lives in the shadows of tall trees where it eats insects  It is attracted by light at night 
+49,Venomoth,Bug,Poison,15,125,The dustlike scales covering its wings are color-coded to indicate the kinds of poison it has 
+50,Diglett,Ground,,2,8,피부가 매우 얇아서 빛을 쪼이게 되면 혈액이 데워져 약해진다 
+51,Dugtrio,Ground,,7,333,A team of DIGLETT triplets  It triggers huge earthquakes by burrowing 60 miles underground 
+52,Meowth,Normal,,4,42,It washes its face regularly to keep the coin on its forehead spotless  It doesn’t get along with Galarian Meowth 
+53,Persian,Normal,,10,320,Although its fur has many admirers  it is tough to raise as a pet because of its fickle meanness 
+54,Psyduck,Water,,8,196,While lulling its enemies with its vacant look  this wily POKéMON will use psychokinetic powers 
+55,Golduck,Water,,17,766,Often seen swim­ ming elegantly by lake shores  It is often mistaken for the Japanese monster  Kappa 
+56,Mankey,Fighting,,5,280,Extremely quick to anger  It could be docile one moment then thrashing away the next instant 
+57,Primeape,Fighting,,10,320,Always furious and tenacious to boot  It will not abandon chasing its quarry until it is caught 
+58,Growlithe,Fire,,7,190,Very protective of its territory  It will bark and bite to repel intruders from its space 
+59,Arcanine,Fire,,19,1550,A POKéMON that has been admired since the past for its beauty  It runs agilely as if on wings 
+60,Poliwag,Water,,6,124,Its newly grown legs prevent it from running  It appears to prefer swimming than trying to stand 
+61,Poliwhirl,Water,,10,200,Capable of living in or out of water  When out of water  it sweats to keep its body slimy 
+62,Poliwrath,Water,Fighting,13,540,An adept swimmer at both the front crawl and breast stroke  Easily overtakes the best human swimmers 
+63,Abra,Psychic,,9,195,Using its ability to read minds  it will identify impending danger and TELEPORT to safety 
+64,Kadabra,Psychic,,13,565,It emits special alpha waves from its body that induce headaches just by being close by 
+65,Alakazam,Psychic,,15,480,Its brain can out­ perform a super­ computer  Its intelligence quotient is said to be 5 000 
+66,Machop,Fighting,,8,195,Malgré sa petite taille  sa force lui permet de soulever plusieurs Racaillou à la fois 
+67,Machoke,Fighting,,15,705,Its muscular body is so powerful  it must wear a power save belt to be able to regulate its motions 
+68,Machamp,Fighting,,16,1300,Using its heavy muscles  it throws powerful punches that can send the victim clear over the horizon 
+69,Bellsprout,Grass,Poison,7,40,A carnivorous POKéMON that traps and eats bugs  It uses its root feet to soak up needed moisture 
+70,Weepinbell,Grass,Poison,10,64,It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID 
+71,Victreebel,Grass,Poison,17,155,Dieses Pokémon soll in großen Kolonien tief im Dschungel leben  doch niemand kann dies bestätigen 
+72,Tentacool,Water,Poison,9,455,Drifts in shallow seas  Anglers who hook them by accident are often punished by its stinging acid 
+73,Tentacruel,Water,Poison,16,550,The tentacles are normally kept short  On hunts  they are extended to ensnare and immobilize prey 
+74,Geodude,Rock,Ground,4,200,Found in fields and mountains  Mistaking them for boulders  people often step or trip on them 
+75,Graveler,Rock,Ground,10,1050,De naturaleza descuidada y libre  no le importa dañarse cuando baja rodando montañas 
+76,Golem,Rock,Ground,14,3000,Its boulder-like body is extremely hard  It can easily withstand dynamite blasts without damage 
+77,Ponyta,Fire,,10,300,Its hooves are 10 times harder than diamonds  It can trample anything completely flat in little time 
+78,Rapidash,Fire,,17,950,Galopa a casi 240 km por hora  Su crin ardiente parece una flecha cuando corre 
+79,Slowpoke,Water,Psychic,12,360,Descansa ocioso junto al agua  Si algo muerde su cola  no lo notará en todo el día 
+80,Slowbro,Water,Psychic,16,785,The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps 
+81,Magnemite,Electric,Steel,3,60,Uses anti-gravity to stay suspended  Appears without warning and uses THUNDER WAVE and similar moves 
+82,Magneton,Electric,Steel,10,600,Formed by several MAGNEMITEs linked together  They frequently appear when sunspots flare up 
+83,Farfetchd,Normal,Flying,8,150,The sprig of green onions it holds is its weapon  It is used much like a metal sword 
+84,Doduo,Normal,Flying,14,392,A bird that makes up for its poor flying with its fast foot speed  Leaves giant footprints 
+85,Dodrio,Normal,Flying,18,852,由嘟嘟的某个头分裂 出的变种。以60千米的 时速在草原上奔跑。
+86,Seel,Water,,11,900,The protruding horn on its head is very hard  It is used for bashing through thick ice 
+87,Dewgong,Water,Ice,17,1200,Stores thermal energy in its body  Swims at a steady 8 knots even in intensely cold waters 
+88,Grimer,Poison,,9,300,Appears in filthy areas  Thrives by sucking up polluted sludge that is pumped out of factories 
+89,Muk,Poison,,12,300,Thickly covered with a filthy  vile sludge  It is so toxic  even its footprints contain poison 
+90,Shellder,Water,,3,40,Its hard shell repels any kind of attack  It is vulnerable only when its shell is open 
+91,Cloyster,Water,Ice,15,1325,When attacked  it launches its horns in quick volleys  Its innards have never been seen 
+92,Gastly,Ghost,Poison,13,1,Almost invisible  this gaseous POKéMON cloaks the target and puts it to sleep without notice 
+93,Haunter,Ghost,Poison,16,1,Because of its ability to slip through block walls  it is said to be from an­ other dimension 
+94,Gengar,Ghost,Poison,15,405,Under a full moon  this POKéMON likes to mimic the shadows of people and laugh at their fright 
+95,Onix,Rock,Ground,88,2100,As it grows  the stone portions of its body harden to become similar to a diamond  but colored black 
+96,Drowzee,Psychic,,10,324,Puts enemies to sleep then eats their dreams  Occasionally gets sick from eating bad dreams 
+97,Hypno,Psychic,,16,756,When it locks eyes with an enemy  it will use a mix of PSI moves such as HYPNOSIS and CONFUSION 
+98,Krabby,Water,,4,65,Its pincers are not only powerful weapons  they are used for balance when walking sideways 
+99,Kingler,Water,,13,600,The large pincer has 10000 hp of crushing power  However  its huge size makes it unwieldy to use 
+100,Voltorb,Electric,,5,104,Usually found in power plants  Easily mistaken for a POKé BALL  they have zapped many people 
+101,Electrode,Electric,,12,666,It stores electric energy under very high pressure  It often explodes with little or no provocation 
+102,Exeggcute,Grass,Psychic,4,25,Often mistaken for eggs  When disturbed  they quickly gather and attack in swarms 
+103,Exeggutor,Grass,Psychic,20,1200,Legend has it that on rare occasions  one of its heads will drop off and continue on as an EXEGGCUTE 
+104,Cubone,Ground,,4,65,Because it never removes its skull helmet  no one has ever seen this POKéMON's real face 
+105,Marowak,Ground,,10,450,将骨头像回力镖一样扔出去， 击落天敌秃鹰娜来复仇。
+106,Hitmonlee,Fighting,,15,498,When in a hurry  its legs lengthen progressively  It runs smoothly with extra long  loping strides 
+107,Hitmonchan,Fighting,,14,502,While apparently doing nothing  it fires punches in lightning fast volleys that are impossible to see 
+108,Lickitung,Normal,,12,655,Its tongue can be extended like a chameleon's  It leaves a tingling sensation when it licks enemies 
+109,Koffing,Poison,,6,10,Because it stores several kinds of toxic gases in its body  it is prone to exploding without warning 
+110,Weezing,Poison,,12,95,Where two kinds of poison gases meet  2 KOFFINGs can fuse into a WEEZING over many years 
+111,Rhyhorn,Ground,Rock,10,1150,A POKéMON with a one-track mind  Once it charges   it won't stop running until it falls asleep 
+112,Rhydon,Ground,Rock,19,1200,Protected by an armor-like hide  it is capable of living in molten lava of 3 600 degrees 
+113,Chansey,Normal,,11,346,A rare and elusive POKéMON that is said to bring happiness to those who manage to get it 
+114,Tangela,Grass,,10,350,The whole body is swathed with wide vines that are similar to sea­ weed  Its vines shake as it walks 
+115,Kangaskhan,Normal,,22,800,The infant rarely ventures out of its mother's protective pouch until it is 3 years old 
+116,Horsea,Water,,4,80,Known to shoot down flying bugs with precision blasts of ink from the surface of the water 
+117,Seadra,Water,,12,250,Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail 
+118,Goldeen,Water,,6,150,Its tail fin billows like an elegant ballroom dress  giving it the nickname of the Water Queen 
+119,Seaking,Water,,13,390,In the autumn spawning season  they can be seen swimming powerfully up rivers and creeks 
+120,Staryu,Water,,8,345,If its body is torn  it can grow back if the red core remains  The core flashes at midnight 
+121,Starmie,Water,Psychic,11,800,Its central core glows with the seven colors of the rainbow  Some people value the core as a gem 
+122,Mr-mime,Psychic,Fairy,13,545,If interrupted while it is miming  it will slap around the offender with its broad hands 
+123,Scyther,Bug,Flying,15,560,With ninja-like agility and speed  it can create the illusion that there is more than one 
+124,Jynx,Ice,Psychic,14,406,It seductively wiggles its hips as it walks  It can cause people to dance in unison with it 
+125,Electabuzz,Electric,,11,300,Normally found near power plants  they can wander away and cause major blackouts in cities 
+126,Magmar,Fire,,13,445,Its body always burns with an orange glow that enables it to hide perfectly among flames 
+127,Pinsir,Bug,,15,550,If it fails to crush the victim in its pincers  it will swing it around and toss it hard 
+128,Tauros,Normal,,14,884,When it targets an enemy  it charges furiously while whipping its body with its long tails 
+129,Magikarp,Water,,9,100,In the distant past  it was somewhat stronger than the horribly weak descendants that exist today 
+130,Gyarados,Water,Flying,65,2350,Once it begins to rampage  a GYARADOS will burn everything down  even in a harsh storm 
+131,Lapras,Water,Ice,25,2200,A POKéMON that has been over­ hunted almost to extinction  It can ferry people across the water 
+132,Ditto,Normal,,3,40,Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy 
+133,Eevee,Normal,,3,65,Its genetic code is irregular  It may mutate if it is exposed to radiation from element STONEs 
+134,Vaporeon,Water,,10,290,Lives close to water  Its long tail is ridged with a fin which is often mistaken for a mermaid's 
+135,Jolteon,Electric,,8,245,It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts 
+136,Flareon,Fire,,9,250,When storing thermal energy in its body  its temperature could soar to over 1600 degrees 
+137,Porygon,Normal,,8,365,A POKéMON that consists entirely of programming code  Capable of moving freely in cyberspace 
+138,Omanyte,Rock,Water,4,75,Although long extinct  in rare cases  it can be genetically resurrected from fossils 
+139,Omastar,Rock,Water,10,350,A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey 
+140,Kabuto,Rock,Water,5,115,A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago 
+141,Kabutops,Rock,Water,13,405,È un perfetto nuotatore  Taglia la preda con le sue falci e ne succhia il sangue 
+142,Aerodactyl,Rock,Flying,18,590,A Pokémon that roamed the skies in the dinosaur era  Its teeth are like saw blades 
+143,Snorlax,Normal,,21,4600,Very lazy  Just eats and sleeps  As its rotund bulk builds  it becomes steadily more slothful 
+144,Articuno,Ice,Flying,17,554,A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains 
+145,Zapdos,Electric,Flying,16,526,かみなりぐもの　なかに　いると いわれる　でんせつの　ポケモン。 カミナリを　じざいに　あやつる。
+146,Moltres,Fire,Flying,20,600,Known as the legendary bird of fire  Every flap of its wings creates a dazzling flash of flames 
+147,Dratini,Dragon,,18,33,Long considered a mythical POKéMON until recently when a small colony was found living underwater 
+148,Dragonair,Dragon,,40,165,人们相信它能操纵天气， 所以在哈克龙栖息的湖里， 供品总是源源不断。
+149,Dragonite,Dragon,Flying,22,2100,An extremely rarely seen marine POKéMON  Its intelligence is said to match that of humans 
+150,Mewtwo,Psychic,,20,1220,It was created by a scientist after years of horrific gene splicing and DNA engineering experiments 
+151,Mew,Psychic,,4,40,So rare that it is still said to be a mirage by many experts  Only a few people have seen it worldwide 
+152,Chikorita,Grass,,9,64,A sweet aroma gently wafts from the leaf on its head  It is docile and loves to soak up the sun's rays 
+153,Bayleef,Grass,,12,158,The scent of spices comes from around its neck  Somehow  sniffing it makes you want to fight 
+154,Meganium,Grass,,18,1005,The aroma that rises from its petals contains a substance that calms aggressive feelings 
+155,Cyndaquil,Fire,,5,79,It has a timid nature  If it is startled  the flames on its back burn more vigorously 
+156,Quilava,Fire,,9,190,Be careful if it turns its back during battle  It means that it will attack with the fire on its back 
+157,Typhlosion,Fire,,17,795,If its rage peaks  it becomes so hot that anything that touches it will instantly go up in flames 
+158,Totodile,Water,,6,95,Its well-developed jaws are powerful and capable of crushing anything  Even its trainer must be careful 
+159,Croconaw,Water,,11,250,If it loses a fang  a new one grows back in its place  There are always 48 fangs lining its mouth 
+160,Feraligatr,Water,,23,888,When it bites with its massive and powerful jaws  it shakes its head and savagely tears its victim up 
+161,Sentret,Normal,,8,60,A very cautious POKéMON  it raises itself up using its tail to get a better view of its surroundings 
+162,Furret,Normal,,18,325,It makes a nest to suit its long and skinny body  The nest is impossible for other POKéMON to enter 
+163,Hoothoot,Normal,Flying,7,212,It always stands on one foot  It changes feet so fast  the movement can rarely be seen 
+164,Noctowl,Normal,Flying,16,408,Its eyes are specially adapted  They concentrate even faint light and enable it to see in the dark 
+165,Ledyba,Bug,Flying,10,108,It is very timid  It will be afraid to move if it is alone  But it will be active if it is in a group 
+166,Ledian,Bug,Flying,14,356,When the stars flicker in the night sky  it flutters about  scattering a glowing powder 
+167,Spinarak,Bug,Poison,5,85,It lies still in the same pose for days in its web  waiting for its unsuspecting prey to wander close 
+168,Ariados,Bug,Poison,11,335,也有地区会使用 阿利多斯的丝来织布。 因布料结实而广受好评。
+169,Crobat,Poison,Flying,18,750,It flies so si­ lently through the dark on its four wings that it may not be noticed even when nearby 
+170,Chinchou,Water,Electric,5,120,Chinchou blink their shining antennae at one another to claim their respective turf 
+171,Lanturn,Water,Electric,12,225,The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles 
+172,Pichu,Electric,,3,20,It is not yet skilled at storing electricity  It may send out a jolt if amused or startled 
+173,Cleffa,Fairy,,3,30,Because of its unusual  star-like silhouette  people believe that it came here on a meteor 
+174,Igglybuff,Normal,Fairy,3,10,It has a very soft body  If it starts to roll  it will bounce all over and be impossible to stop 
+175,Togepi,Fairy,,3,15,The shell seems to be filled with joy  It is said that it will share good luck when treated kindly 
+176,Togetic,Fairy,Flying,6,32,They say that it will appear before kindhearted  car­ ing people and shower them with happiness 
+177,Natu,Psychic,Flying,2,20,Because its wings aren't yet fully grown  it has to hop to get around  It is always star­ ing at something 
+178,Xatu,Psychic,Flying,15,150,They say that it stays still and quiet because it is seeing both the past and future at the same time 
+179,Mareep,Electric,,6,78,If static elec­ tricity builds in its body  its fleece doubles in volume  Touching it will shock you 
+180,Flaaffy,Electric,,8,133,푹신푹신한 털은 전기를 모으기 쉽지만 고무 같은 피부 덕분에 자신은 마비되지 않는다 
+181,Ampharos,Electric,,14,615,The tail's tip shines brightly and can be seen from far away  It acts as a beacon for lost people 
+182,Bellossom,Grass,,4,58,Plentiful in the tropics  When it dances  its petals rub together and make a pleasant ringing sound 
+183,Marill,Water,Fairy,4,85,The tip of its tail  which con­ tains oil that is lighter than wa­ ter  lets it swim without drowning 
+184,Azumarill,Water,Fairy,8,285,It lives in water virtually all day long  Its body color and pattern act as camouflage that makes it tough for enemies to spot in water 
+185,Sudowoodo,Rock,,12,380,Although it always pretends to be a tree  its composi­ tion appears to be closer to a rock than a plant 
+186,Politoed,Water,,11,339,If POLIWAG and POLIWHIRL hear its echoing cry  they respond by gather­ ing from far and wide 
+187,Hoppip,Grass,Flying,4,5,To keep from being blown away by the wind  they gather in clusters  They do enjoy gentle breezes  though 
+188,Skiploom,Grass,Flying,6,10,The bloom on top of its head opens and closes as the temperature fluc­ tuates up and down 
+189,Jumpluff,Grass,Flying,8,30,Once it catches the wind  it deft­ ly controls its cotton-puff spores to float  even around the world 
+190,Aipom,Normal,,8,115,Sa queue est aussi agile que ses mains  Il vit en haut des grands arbres 
+191,Sunkern,Grass,,3,18,It may drop out of the sky suddenly  If attacked by a SPEAROW  it will violently shake its leaves 
+192,Sunflora,Grass,,8,85,It converts sun­ light into energy  In the darkness after sunset  it closes its petals and becomes still 
+193,Yanma,Bug,Flying,12,380,If it flaps its wings really fast  it can generate shock waves that will shatter win­ dows in the area 
+194,Wooper,Water,Ground,4,85,This POKéMON lives in cold water  It will leave the water to search for food when it gets cold outside 
+195,Quagsire,Water,Ground,14,750,This carefree POKéMON has an easy-going nature  While swimming  it always bumps into boat hulls 
+196,Espeon,Psychic,,9,265,It uses the fine hair that covers its body to sense air currents and predict its ene­ my's actions 
+197,Umbreon,Dark,,10,270,When agitated  this POKéMON pro­ tects itself by spraying poisonous sweat from its pores 
+198,Murkrow,Dark,Flying,5,21,Feared and loathed by many  it is believed to bring misfortune to all those who see it at night 
+199,Slowking,Water,Psychic,20,795,It has incredible intellect and in­ tuition  Whatever the situation  it remains calm and collected 
+200,Misdreavus,Ghost,,7,10,It likes playing mischievous tricks such as screaming and wailing to startle people at night 
+201,Unown,Psychic,,5,50,Their shapes look like hieroglyphs on ancient tab­ lets  It is said that the two are somehow related 
+202,Wobbuffet,Psychic,,13,285,Odia la luz y las sacudidas  Si le atacan  infla su cuerpo para aumentar su contraataque 
+203,Girafarig,Normal,Psychic,15,415,Its tail has a small brain of its own  Beware! If you get close  it may react to your scent and bite 
+204,Pineco,Bug,,6,72,It likes to make its shell thicker by adding layers of tree bark  The additional weight doesn't bother it 
+205,Forretress,Bug,Steel,12,1258,Its entire body is shielded by a steel-hard shell  What lurks inside the armor is a total mystery 
+206,Dunsparce,Normal,,15,140,When spotted  this POKéMON escapes backward by furi­ ously boring into the ground with its tail 
+207,Gligar,Ground,Flying,11,648,It flies straight at its target's face then clamps down on the star­ tled victim to inject poison 
+208,Steelix,Steel,Ground,92,4000,It is thought its body transformed as a result of iron accumulating internally from swallowing soil 
+209,Snubbull,Fairy,,6,78,Although it looks frightening  it is actually kind and affectionate  It is very popular among women 
+210,Granbull,Fairy,,14,487,It is actually timid and easily spooked  If at­ tacked  it flails about to fend off its attacker 
+211,Qwilfish,Water,Poison,5,39,To fire its poison spikes  it must inflate its body by drinking over 2 6 gallons of water all at once 
+212,Scizor,Bug,Steel,18,1180,It has a steel-hard body  It intimidates foes by upraising its eye-patterned pincers 
+213,Shuckle,Bug,Rock,6,205,The BERRIES it stores in its vase-like shell decompose and become a gooey liquid 
+214,Heracross,Bug,Fighting,15,540,It is usually docile  but if it is disturbed while sipping honey  it chases off the intruder with its horn 
+215,Sneasel,Dark,Ice,9,280,性格狡猾且兇猛。 會趁著雙親不在時 侵入巢穴把蛋盜走。
+216,Teddiursa,Normal,,6,88,If it finds honey  its crescent mark glows  It always licks its paws because they are soaked with honey 
+217,Ursaring,Normal,,18,1258,Although it is a good climber  it prefers to snap trees with its forelegs and eat fallen BERRIES 
+218,Slugma,Fire,,7,350,Asiduo a las zonas volcánicas  se desliza lentamente en busca de lugares calientes 
+219,Magcargo,Fire,Rock,8,550,The shell on its back is just skin that has cooled and hardened  It breaks easily with a slight touch 
+220,Swinub,Ice,Ground,4,65,It rubs its snout on the ground to find and dig up food  It sometimes discovers hot springs 
+221,Piloswine,Ice,Ground,11,558,Because the long hair all over its body obscures its sight  it just keeps charging repeatedly 
+222,Corsola,Water,Rock,6,50,It continuously sheds and grows  The tip of its head is prized as a treasure for its beauty 
+223,Remoraid,Water,,6,120,It has superb ac­ curacy  The water it shoots out can strike even moving prey from more than 300 feet 
+224,Octillery,Water,,9,285,It traps enemies with its suction- cupped tentacles then smashes them with its rock-hard head 
+225,Delibird,Ice,Flying,9,160,It carries food all day long  There are tales about lost people who were saved by the food it had 
+226,Mantine,Water,Flying,21,2200,As it majestically swims  it doesn't care if REMORAID attach to it for scavenging its leftovers 
+227,Skarmory,Steel,Flying,17,505,Its sturdy wings look heavy  but they are actually hollow and light  allowing it to fly freely in the sky 
+228,Houndour,Dark,Fire,6,108,It uses different kinds of cries for communicating with others of its kind and for pursuing its prey 
+229,Houndoom,Dark,Fire,14,350,If you are burned by the flames it shoots from its mouth  the pain will never go away 
+230,Kingdra,Water,Dragon,18,1520,It is said that it usually hides in underwater caves  It can create whirlpools by yawning 
+231,Phanpy,Ground,,5,335,It swings its long snout around play­ fully  but because it is so strong  that can be dan­ gerous 
+232,Donphan,Ground,,11,1200,It has sharp  hard tusks and a rugged hide  Its TACKLE is strong enough to knock down a house 
+233,Porygon2,Normal,,6,325,This upgraded version of PORYGON is designed for space exploration  It can't fly  though 
+234,Stantler,Normal,,14,712,The curved antlers subtly change the flow of air to create a strange space where real­ ity is distorted 
+235,Smeargle,Normal,,12,580,A special fluid oozes from the tip of its tail  It paints the fluid everywhere to mark its territory 
+236,Tyrogue,Fighting,,7,210,It is always bursting with en­ ergy  To make it­ self stronger  it keeps on fighting even if it loses 
+237,Hitmontop,Fighting,,14,480,If you become enchanted by its smooth  elegant  dance-like kicks  you may get drilled hard 
+238,Smoochum,Ice,Psychic,4,60,Its lips are the most sensitive parts on its body  It always uses its lips first to examine things 
+239,Elekid,Electric,,6,235,常常跟來搶奪電力的 托戈德瑪爾打架。 結果通常是不分上下。
+240,Magby,Fire,,7,214,Each and every time it inhales and exhales  hot embers dribble out of its mouth and nostrils 
+241,Miltank,Normal,,12,755,Si tiene crías  la leche que produce contiene muchos más nutrientes de lo normal 
+242,Blissey,Normal,,15,468,Anyone who takes even one bite of BLISSEY's egg be­ comes unfailingly caring and pleas­ ant to everyone 
+243,Raikou,Electric,,19,1780,The rain clouds it carries let it fire thunderbolts at will  They say that it descended with lightning 
+244,Entei,Fire,,21,1980,Volcanoes erupt when it barks  Un­ able to restrain its extreme power  it races headlong around the land 
+245,Suicune,Water,,20,1870,It races around the world to purify fouled water  It dashes away with the north wind 
+246,Larvitar,Rock,Ground,6,720,It feeds on soil  After it has eaten a large mountain  it will fall asleep so it can grow 
+247,Pupitar,Rock,Ground,12,1520,Its shell is as hard as sheet rock  and it is also very strong  Its THRASHING can topple a mountain 
+248,Tyranitar,Rock,Dark,20,2020,Its body can't be harmed by any sort of attack  so it is very eager to make challenges against enemies 
+249,Lugia,Psychic,Flying,52,2160,It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong 
+250,Ho-oh,Fire,Flying,38,1990,Legends claim this POKéMON flies the world's skies con­ tinuously on its magnificent seven- colored wings 
+251,Celebi,Psychic,Grass,6,50,This POKéMON wan­ ders across time  Grass and trees flourish in the forests in which it has appeared 
+252,Treecko,Grass,,5,50,TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls  This POKéMON attacks by slamming foes with its thick tail 
+253,Grovyle,Grass,,9,216,발달한 넓적다리의 근육이 경이로운 순발력과 도약력을 만들어 낸다 
+254,Sceptile,Grass,,17,522,The leaves growing on SCEPTILE’s body are very sharp edged  This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind 
+255,Torchic,Fire,,4,25,TORCHIC sticks with its TRAINER  following behind with unsteady steps  This POKéMON breathes fire of over 1 800 degrees F  including fireballs that leave the foe scorched black 
+256,Combusken,Fire,Fighting,9,195,COMBUSKEN toughens up its legs and thighs by running through fields and mountains  This POKéMON’s legs possess both speed and power  enabling it to dole out ten kicks in one second 
+257,Blaziken,Fire,Fighting,19,520,In battle  BLAZIKEN blows out intense flames from its wrists and attacks foes courageously  The stronger the foe  the more intensely this POKéMON’s wrists burn 
+258,Mudkip,Water,,4,76,The fin on MUDKIP’s head acts as highly sensitive radar  Using this fin to sense movements of water and air  this POKéMON can determine what is taking place around it without using its eyes 
+259,Marshtomp,Water,Ground,7,280,The surface of MARSHTOMP’s body is enveloped by a thin  sticky film that enables it to live on land  This POKéMON plays in mud on beaches when the ocean tide is low 
+260,Swampert,Water,Ground,15,819,SWAMPERT is very strong  It has enough power to easily drag a boulder weighing more than a ton  This POKéMON also has powerful vision that lets it see even in murky water 
+261,Poochyena,Dark,,5,136,At first sight  POOCHYENA takes a bite at anything that moves  This POKéMON chases after prey until the victim becomes exhausted  However  it may turn tail if the prey strikes back 
+262,Mightyena,Dark,,10,370,Les Grahyèna forment des meutes de dix qui excellent au travail de groupe pour capturer leurs proies 
+263,Zigzagoon,Normal,,4,175,ZIGZAGOON restlessly wanders everywhere at all times  This POKéMON does so because it is very curious  It becomes interested in anything that it happens to see 
+264,Linoone,Normal,,5,325,LINOONE always runs full speed and only in straight lines  If facing an obstacle  it makes a right-angle turn to evade it  This POKéMON is very challenged by gently curving roads 
+265,Wurmple,Bug,,3,36,Le encanta comer hojas  Si le ataca un Starly  se defenderá con sus púas 
+266,Silcoon,Bug,,6,100,SILCOON tethers itself to a tree branch using silk to keep from falling  There   this POKéMON hangs quietly while it awaits evolution  It peers out of the silk cocoon through a small hole 
+267,Beautifly,Bug,Flying,10,284,BEAUTIFLY’s favorite food is the sweet pollen of flowers  If you want to see this POKéMON  just leave a potted flower by an open window  BEAUTIFLY is sure to come looking for pollen 
+268,Cascoon,Bug,,7,115,CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth  Once the silk goes around its body  it hardens  This POKéMON prepares for its evolution inside the cocoon 
+269,Dustox,Bug,Poison,12,316,DUSTOX is instinctively drawn to light  Swarms of this POKéMON are attracted by the bright lights of cities  where they wreak havoc by stripping the leaves off roadside trees for food 
+270,Lotad,Water,Grass,5,26,It searches about for clean water  If it does not drink water for too long  the leaf on its head wilts 
+271,Lombre,Water,Grass,12,325,It lives at the water’s edge where it is sunny  It sleeps on a bed of water grass by day and becomes active at night 
+272,Ludicolo,Water,Grass,15,550,LUDICOLO begins dancing as soon as it hears cheerful  festive music  This POKéMON is said to appear when it hears the singing of children on hiking outings 
+273,Seedot,Grass,,5,40,SEEDOT attaches itself to a tree branch using the top of its head  It sucks moisture from the tree while hanging off the branch  The more water it drinks  the glossier this POKéMON’s body becomes 
+274,Nuzleaf,Grass,Dark,10,280,NUZLEAF live in densely overgrown forests  They occasionally venture out of the forest to startle people  This POKéMON dislikes having its long nose pinched 
+275,Shiftry,Grass,Dark,13,596,It lives quietly in the deep forest  It is said to create chilly winter winds with the fans it holds 
+276,Taillow,Normal,Flying,3,23,TAILLOW courageously stands its ground against foes  however strong they may be  This gutsy POKéMON will remain defiant even after a loss  On the other hand  it cries loudly if it becomes hungry 
+277,Swellow,Normal,Flying,7,198,SWELLOW flies high above our heads  making graceful arcs in the sky  This POKéMON dives at a steep angle as soon as it spots its prey  The hapless prey is tightly grasped by SWELLOW’s clawed feet  preventing escape 
+278,Wingull,Water,Flying,6,95,WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations  This POKéMON rides the winds and flies as if it were skating across the sky 
+279,Pelipper,Water,Flying,12,280,It is a messenger of the skies  carrying small Pokémon and eggs to safety in its bill 
+280,Ralts,Psychic,Fairy,4,66,RALTS senses the emotions of people using the horns on its head  This POKéMON rarely appears before people  But when it does  it draws closer if it senses that the person has a positive disposition 
+281,Kirlia,Psychic,Fairy,8,202,It is said that a KIRLIA that is exposed to the positive emotions of its TRAINER grows beautiful  This POKéMON controls psychokinetic powers with its highly developed brain 
+282,Gardevoir,Psychic,Fairy,16,484,GARDEVOIR has the ability to read the future  If it senses impending danger to its TRAINER  this POKéMON is said to unleash its psychokinetic energy at full power 
+283,Surskit,Bug,Water,5,17,すいめんを　すべるように　あるく。 あたまの　さきから　あまい　においを だして　えものを　さそう。
+284,Masquerain,Bug,Flying,8,36,MASQUERAIN intimidates enemies with the eyelike patterns on its antennas  This POKéMON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter 
+285,Shroomish,Grass,,4,45,SHROOMISH live in damp soil in the dark depths of forests  They are often found keeping still under fallen leaves  This POKéMON feeds on compost that is made up of fallen  rotted leaves 
+286,Breloom,Grass,Fighting,12,392,Erst lässt es den Gegner seine giftigen Sporen einatmen  dann traktiert es ihn mit Boxschlägen 
+287,Slakoth,Normal,,8,240,SLAKOTH lolls around for over twenty hours every day  Because it moves so little  it does not need much food  This POKéMON’s sole daily meal consists of just three leaves 
+288,Vigoroth,Normal,,14,465,VIGOROTH is always itching and agitated to go on a wild rampage  It simply can’t tolerate sitting still for even a minute  This POKéMON’s stress level rises if it can’t be moving constantly 
+289,Slaking,Normal,,20,1305,SLAKING spends all day lying down and lolling about  It eats grass growing within its reach  If it eats all the grass it can reach  this POKéMON reluctantly moves to another spot 
+290,Nincada,Bug,Ground,5,55,NINCADA lives underground for many years in complete darkness  This POKéMON absorbs nutrients from the roots of trees  It stays motionless as it waits for evolution 
+291,Ninjask,Bug,Flying,8,120,NINJASK moves around at such a high speed that it cannot be seen  even while its crying can be clearly heard  For that reason  this POKéMON was long believed to be invisible 
+292,Shedinja,Bug,Ghost,8,12,SHEDINJA’s hard body doesn’t move - not even a twitch  In fact  its body appears to be merely a hollow shell  It is believed that this POKéMON will steal the spirit of anyone peering into its hollow body from its back 
+293,Whismur,Normal,,6,163,Normally  WHISMUR’s voice is very quiet - it is barely audible even if one is paying close attention  However  if this POKéMON senses danger  it starts crying at an earsplitting volume 
+294,Loudred,Normal,,10,405,LOUDRED’s bellowing can completely decimate a wood-frame house  It uses its voice to punish its foes  This POKéMON’s round ears serve as loudspeakers 
+295,Exploud,Normal,,15,840,EXPLOUD triggers earthquakes with the tremors it creates by bellowing  If this POKéMON violently inhales from the ports on its body  it’s a sign that it is preparing to let loose a huge bellow 
+296,Makuhita,Fighting,,10,864,MAKUHITA is tenacious - it will keep getting up and attacking its foe however many times it is knocked down  Every time it gets back up  this POKéMON stores more energy in its body for evolving 
+297,Hariyama,Fighting,,23,2538,It has the habit of challenging others without hesitation to tests of strength  It’s been known to stand on train tracks and stop trains using forearm thrusts 
+298,Azurill,Normal,Fairy,2,20,A Pokémon that lives by water  It moves quickly on land by bouncing on its big tail 
+299,Nosepass,Rock,,10,970,NOSEPASS’s magnetic nose is always pointed to the north  If two of these POKéMON meet  they cannot turn their faces to each other when they are close because their magnetic noses repel one another 
+300,Skitty,Normal,,6,110,SKITTY has the habit of becoming fascinated by moving objects and chasing them around  This POKéMON is known to chase after its own tail and become dizzy 
+301,Delcatty,Normal,,11,326,DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace  Because this POKéMON eats and sleeps whenever it decides  its daily routines are completely random 
+302,Sableye,Dark,Ghost,5,110,SABLEYE lead quiet lives deep inside caverns  They are feared  however  because these POKéMON are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness 
+303,Mawile,Steel,Fairy,6,115,MAWHILE’s huge jaws are actually steel horns that have been transformed  Its docile-looking face serves to lull its foe into letting down its guard  When the foe least expects it  MAWHILE chomps it with its gaping jaws 
+304,Aron,Steel,Rock,4,600,This POKéMON has a body of steel  To make its body  ARON feeds on iron ore that it digs from mountains  Occasionally  it causes major trouble by eating bridges and rails 
+305,Lairon,Steel,Rock,9,1200,LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated  This POKéMON makes its nest close to springs of delicious water 
+306,Aggron,Steel,Rock,21,3600,AGGRON claims an entire mountain as its own territory  It mercilessly beats up anything that violates its environment  This POKéMON vigilantly patrols its territory at all times 
+307,Meditite,Fighting,Psychic,6,112,１にち　１こだけ　きのみを　たべる。 くうふくに　たえることで こころが　とぎすまされていく。
+308,Medicham,Fighting,Psychic,13,315,It is said that through meditation  MEDICHAM heightens energy inside its body and sharpens its sixth sense  This POKéMON hides its presence by merging itself with fields and mountains 
+309,Electrike,Electric,,6,152,ELECTRIKE stores electricity in its long body hair  This POKéMON stimulates its leg muscles with electric charges  These jolts of power give its legs explosive acceleration performance 
+310,Manectric,Electric,,15,402,MANECTRIC is constantly discharging electricity from its mane  The sparks sometimes ignite forest fires  When it enters a battle  this POKéMON creates thunderclouds 
+311,Plusle,Electric,,4,42,PLUSLE always acts as a cheerleader for its partners  Whenever a teammate puts out a good effort in battle  this POKéMON shorts out its body to create the crackling noises of sparks to show its joy 
+312,Minun,Electric,,4,42,MINUN is more concerned about cheering on its partners than its own safety  It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates 
+313,Volbeat,Bug,,7,177,With the arrival of night  VOLBEAT emits light from its tail  It communicates with others by adjusting the intensity and flashing of its light  This POKéMON is attracted by the sweet aroma of ILLUMISE 
+314,Illumise,Bug,,6,177,With its sweet aroma  it guides Volbeat to draw signs with light in the night sky 
+315,Roselia,Grass,Poison,3,20,ROSELIA shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms  The aroma of this POKéMON brings serenity to living things 
+316,Gulpin,Poison,,4,103,Virtually all of GULPIN’s body is its stomach  As a result  it can swallow something its own size  This POKéMON’s stomach contains a special fluid that digests anything 
+317,Swalot,Poison,,17,800,Es verschluckt  was in sein Maul passt  und verdaut es mit seiner alles zersetzenden Magensäure 
+318,Carvanha,Water,Dark,8,208,CARVANHA’s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls  Many boats have been attacked and sunk by this POKéMON 
+319,Sharpedo,Water,Dark,18,888,Nicknamed “the bully of the sea ” SHARPEDO is widely feared  Its cruel fangs grow back immediately if they snap off  Just one of these POKéMON can thoroughly tear apart a supertanker 
+320,Wailmer,Water,,20,1300,WAILMER’s nostrils are located above its eyes  This playful POKéMON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils 
+321,Wailord,Water,,145,3980,WAILORD is the largest of all identified POKéMON up to now  This giant POKéMON swims languorously in the vast open sea  eating massive amounts of food at once with its enormous mouth 
+322,Numel,Fire,Ground,7,240,NUMEL is extremely dull witted - it doesn’t notice being hit  However  it can’t stand hunger for even a second  This POKéMON’s body is a seething cauldron of boiling magma 
+323,Camerupt,Fire,Ground,19,2200,CAMERUPT has a volcano inside its body  Magma of 18 000 degrees F courses through its body  Occasionally  the humps on this POKéMON’s back erupt  spewing the superheated magma 
+324,Torkoal,Fire,,5,804,You can tell how it’s feeling by the smoke spouting from its shell  Tremendous velocity is a sign of good health 
+325,Spoink,Psychic,,7,306,SPOINK bounces around on its tail  The shock of its bouncing makes its heart pump  As a result  this POKéMON cannot afford to stop bouncing - if it stops  its heart will stop 
+326,Grumpig,Psychic,,9,715,GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe  When this POKéMON uses its special power  its snorting breath grows labored 
+327,Spinda,Normal,,11,50,No two Spinda have the same pattern of spots  Its tottering step fouls the aim of foes 
+328,Trapinch,Ground,,7,150,TRAPINCH’s nest is a sloped  bowl-like pit dug in sand  This POKéMON patiently waits for prey to tumble down the pit  Its giant jaws have enough strength to crush even boulders 
+329,Vibrava,Ground,Dragon,11,153,２片翅膀高速振動 產生的超音波會 引起劇烈的頭痛。
+330,Flygon,Ground,Dragon,20,820,FLYGON is nicknamed “the elemental  spirit of the desert ” Because its flapping wings whip up a cloud of sand  this POKéMON is always enveloped in a sandstorm while flying 
+331,Cacnea,Grass,,4,513,En stockant l’eau dans son corps  cet habitant du désert peut  survivre 30 jours sans boire 
+332,Cacturne,Grass,Dark,13,774,During the daytime  CACTURNE remains unmoving so that it does not lose any moisture to the harsh desert sun  This POKéMON becomes active at night when the temperature drops 
+333,Swablu,Normal,Flying,4,12,SWABLU has light and fluffy wings that are like cottony clouds  This POKéMON is not frightened of people  It lands on the heads of people and sits there like a cotton-fluff hat 
+334,Altaria,Dragon,Flying,11,206,Il vole librement en se cachant dans les nuages  Son chant est digne de celui de la plus douée des sopranos 
+335,Zangoose,Normal,,13,403,Memories of battling its arch-rival SEVIPER are etched into every cell of ZANGOOSE’s body  This POKéMON adroitly dodges attacks with incredible agility 
+336,Seviper,Poison,,27,525,SEVIPER shares a generations-long feud with ZANGOOSE  The scars on its body are evidence of vicious battles  This POKéMON attacks using its sword- edged tail 
+337,Lunatone,Rock,Psychic,10,1680,LUNATONE was discovered at a location where a meteorite fell  As a result  some people theorize that this POKéMON came from space  However  no one has been able to prove this theory so far 
+338,Solrock,Rock,Psychic,12,1540,Solar energy is the source of its power  so it is strong during the daytime  When it spins  its body shines 
+339,Barboach,Water,Ground,4,19,BARBOACH’s sensitive whiskers serve as a superb radar system  This POKéMON hides in mud  leaving only its two whiskers exposed while it waits for prey to come along 
+340,Whiscash,Water,Ground,9,236,WHISCASH is extremely territorial  Just one of these POKéMON will claim a large pond as its exclusive territory  If a foe approaches it  it thrashes about and triggers a massive earthquake 
+341,Corphish,Water,,6,115,Its hardy vitality enables it to adapt to any environment  Its pincers will never release prey 
+342,Crawdaunt,Water,Dark,11,328,CRAWDAUNT has an extremely violent nature that compels it to challenge other living things to battle  Other life-forms refuse to live in ponds inhabited by this POKéMON  making them desolate places 
+343,Baltoy,Ground,Psychic,5,215,BALTOY moves while spinning around on its one foot  Primitive wall paintings depicting this POKéMON living among people were discovered in some ancient ruins 
+344,Claydol,Ground,Psychic,15,1080,CLAYDOL are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray  This POKéMON moves about while levitating 
+345,Lileep,Rock,Grass,10,238,LILEEP became extinct approximately a hundred million years ago  This ancient POKéMON attaches itself to a rock on the seafloor and catches approaching prey using tentacles  shaped like flower petals 
+346,Cradily,Rock,Grass,15,604,CRADILY roams around the ocean floor in search of food  This POKéMON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles 
+347,Anorith,Rock,Bug,7,125,ANORITH was regenerated from a prehistoric fossil  This primitive POKéMON once lived in warm seas  It grips its prey firmly between its two large claws 
+348,Armaldo,Rock,Bug,15,682,ARMALDO’s tough armor makes all attacks bounce off  This POKéMON’s two enormous claws can be freely extended or contracted  They have the power to punch right through a steel slab 
+349,Feebas,Water,,6,74,FEEBAS’s fins are ragged and tattered from the start of its life  Because of its shoddy appearance  this POKéMON is largely ignored  It is capable of living in both the sea and in rivers 
+350,Milotic,Water,,62,1620,Ses splendides écailles aux couleurs de l’arc-en-ciel changent de teinte selon l’angle de vue 
+351,Castform,Normal,,3,8,CASTFORM’s appearance changes with the weather  This POKéMON gained the ability to use the vast power of nature to protect its tiny body 
+352,Kecleon,Normal,,10,220,It changes body color to blend in with its surroundings  It also changes color if it is happy or sad 
+353,Shuppet,Ghost,,6,23,SHUPPET is attracted by feelings of jealousy and vindictiveness  If someone develops strong feelings of vengeance  this POKéMON will appear in a swarm and line up beneath the eaves of that person’s home 
+354,Banette,Ghost,,11,125,BANETTE generates energy for laying strong curses by sticking pins into its own body  This POKéMON was originally a pitiful plush doll that was thrown away 
+355,Duskull,Ghost,,8,150,DUSKULL can pass through any wall no matter how thick it may be  Once this POKéMON chooses a target  it will doggedly pursue the intended victim until the break of dawn 
+356,Dusclops,Ghost,,16,306,DUSCLOPS’s body is completely hollow - there is nothing at all inside  It is said that its body is like a black hole  This POKéMON will absorb anything into its body  but nothing will ever come back out 
+357,Tropius,Grass,Flying,20,1000,Puede volar al agitar sus grandes hojas  Reparte entre los niños la codiciada fruta dulce que crece de su cuello 
+358,Chimecho,Psychic,,6,10,CHIMECHO makes its cries echo inside its hollow body  When this POKéMON becomes enraged  its cries result in ultrasonic waves that have the power to knock foes flying 
+359,Absol,Dark,,12,470,Every time ABSOL appears before people  it is followed by a disaster such as an earthquake or a tidal wave  As a result  it came to be known as the disaster POKéMON 
+360,Wynaut,Psychic,,6,140,WYNAUT can always be seen with a big  happy smile on its face  Look at its tail to determine if it is angry  When angered  this POKéMON will be slapping the ground with its tail 
+361,Snorunt,Ice,,7,168,SNORUNT live in regions with heavy snowfall  In seasons without snow  such as spring and summer  this POKéMON steals away to live quietly among stalactites and stalagmites deep in caverns 
+362,Glalie,Ice,,15,2565,GLALIE has a body made of rock  which it hardens with an armor of ice  This POKéMON has the ability to freeze moisture in the atmosphere into any shape it desires 
+363,Spheal,Ice,Water,8,395,SPHEAL is much faster rolling than  walking to get around  When groups of this POKéMON eat  they all clap at once to show their pleasure  Because of this  their mealtimes are noisy 
+364,Sealeo,Ice,Water,11,876,SEALEO has the habit of always juggling on the tip of its nose anything it sees for the first time  This POKéMON occasionally entertains itself by balancing and rolling a SPHEAL on its nose 
+365,Walrein,Ice,Water,14,1506,It swims through icy seas while shattering ice floes with its large tusks  It is protected by its thick blubber 
+366,Clamperl,Water,,4,525,CLAMPERL’s sturdy shell is not only good for protection - it is also used for clamping and catching prey  A fully grown CLAMPERL’s shell will be scored with nicks and scratches all over 
+367,Huntail,Water,,17,270,HUNTAIL’s presence went unnoticed by people for a long time because it lives at extreme depths in the sea  This POKéMON’s eyes can see clearly even in the murky dark depths of the ocean 
+368,Gorebyss,Water,,18,226,헤엄치는 모습이 굉장히 우아하다  가는 입으로 바위 틈새에 나 있는 해초를 먹는다 
+369,Relicanth,Water,Rock,10,234,RELICANTH is a POKéMON species that existed for a hundred million years without ever changing its form  This ancient POKéMON feeds on microscopic organisms with its toothless mouth 
+370,Luvdisc,Water,,6,87,LUVDISC live in shallow seas in the tropics  This heart-shaped POKéMON earned its name by swimming after loving couples it spotted in the ocean’s waves 
+371,Bagon,Dragon,,6,421,Dreaming of one day flying  it practices by leaping off cliffs every day 
+372,Shelgon,Dragon,,11,1105,Inside SHELGON’s armor-like shell  cells are in the midst of transformation to create an entirely new body  This POKéMON’s shell is extremely heavy  making its movements sluggish 
+373,Salamence,Dragon,Flying,15,1026,SALAMENCE came about as a result of a strong  long-held dream of growing wings  It is said that this powerful desire triggered a sudden mutation in this POKéMON’s cells  causing it to sprout its magnificent wings 
+374,Beldum,Steel,Psychic,6,952,Il dégage un champ magnétique opposé à celui de la terre  ce qui lui permet de léviter 
+375,Metang,Steel,Psychic,12,2025,When two BELDUM fuse together  METANG is formed  The brains of the BELDUM are joined by a magnetic nervous system  By linking its brains magnetically  this POKéMON generates strong psychokinetic power 
+376,Metagross,Steel,Psychic,16,5500,METAGROSS has four brains in total  Combined  the four brains can breeze through difficult calculations faster than a supercomputer  This POKéMON can float in the air by tucking in its four legs 
+377,Regirock,Rock,,17,2300,Its entire body is made of rock  If any part chips off in battle  it attaches rocks to repair itself 
+378,Regice,Ice,,18,1750,REGICE’s body was made during an ice age  The deep-frozen body can’t be melted  even by fire  This POKéMON controls frigid air of minus 328 degrees F 
+379,Registeel,Steel,,19,2050,REGISTEEL has a body that is harder than any kind of metal  Its body is apparently hollow  No one has any idea what this POKéMON eats 
+380,Latias,Dragon,Psychic,14,400,LATIAS is highly sensitive to the emotions of people  If it senses any hostility  this POKéMON ruffles the feathers all over its body and cries shrilly to intimidate the foe 
+381,Latios,Dragon,Psychic,20,600,LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head  This POKéMON is intelligent and understands human speech 
+382,Kyogre,Water,,45,3520,KYOGRE has the power to create massive rain clouds that cover the entire sky and bring about torrential downpours  This POKéMON saved people who were suffering from droughts 
+383,Groudon,Ground,,35,9500,Dicen que este Pokémon legendario simboliza la tierra  Tras batirse en duelo con Kyogre se echó a dormir 
+384,Rayquaza,Dragon,Flying,70,2065,RAYQUAZA lived for hundreds of millions of years in the earth’s ozone layer   never descending to the ground  This POKéMON appears to feed on water and particles in the atmosphere 
+385,Jirachi,Steel,Psychic,3,11,A legend states that JIRACHI will make true any wish that is written on notes attached to its head when it awakens  If this POKéMON senses danger  it will fight without awakening 
+386,Deoxys-normal,Psychic,,17,608,The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in DEOXYS  The crystalline organ on this POKéMON’s chest appears to be its brain 
+387,Turtwig,Grass,,4,102,Made from soil  the shell on its back hardens when it drinks water  It lives along lakes 
+388,Grotle,Grass,,11,970,It knows where pure water wells up  It carries fellow Pokémon there on its back 
+389,Torterra,Grass,Ground,22,3100,Small Pokémon occasionally gather on its unmoving back to begin building their nests 
+390,Chimchar,Fire,,5,62,It agilely scales sheer cliffs to live atop craggy mountains  Its fire is put out when it sleeps 
+391,Monferno,Fire,Fighting,9,220,To intimidate attackers  it stretches the fire on its tail to make itself appear bigger 
+392,Infernape,Fire,Fighting,12,550,It uses a special kind of martial arts involving all its limbs  Its fire never goes out 
+393,Piplup,Water,,4,52,Because it is very proud  it hates accepting food from people  Its thick down guards it from cold 
+394,Prinplup,Water,,8,230,It lives alone  away from others  Apparently  every one of them believes it is the most important 
+395,Empoleon,Water,Steel,17,845,The three horns that extend from its beak attest to its power  The leader has the biggest horns 
+396,Starly,Normal,Flying,3,20,They flock in great numbers  Though small  they flap their wings with great power 
+397,Staravia,Normal,Flying,6,155,It flies around forests and fields in search of bug Pokémon  It stays within a huge flock 
+398,Staraptor,Normal,Flying,12,249,It has a savage nature  It will courageously challenge foes that are much larger 
+399,Bidoof,Normal,,5,200,With nerves of steel  nothing can perturb it  It is more agile and active than it appears 
+400,Bibarel,Normal,Water,10,315,It makes its nest by damming streams with bark and mud  It is known as an industrious worker 
+401,Kricketot,Bug,,3,22,It shakes its head back to front  causing its antennae to hit each other and sound like a xylophone 
+402,Kricketune,Bug,,10,255,It crosses its knifelike arms in front of its chest when it cries  It can compose melodies ad lib 
+403,Shinx,Electric,,5,95,All of its fur dazzles if danger is sensed  It flees while the foe is momentarily blinded 
+404,Luxio,Electric,,9,305,遇到敌人时会从脚 伸出有着百万伏特 威力的爪子来迎战。
+405,Luxray,Electric,,14,420,It has eyes that can see through anything  It spots and captures prey hiding behind objects 
+406,Budew,Grass,Poison,2,12,Over the winter  it closes its bud and endures the cold  In spring  the bud opens and releases pollen 
+407,Roserade,Grass,Poison,9,145,Con i movimenti di una ballerina  colpisce con le fruste  piene di spine velenose 
+408,Cranidos,Rock,,9,315,It lived in jungles around 100 million years ago  Its skull is as hard as iron 
+409,Rampardos,Rock,,16,1025,Its powerful head butt has enough power to shatter even the most durable things upon impact 
+410,Shieldon,Rock,Steel,5,570,A Pokémon that lived in jungles around 100 million years ago  Its facial hide is extremely hard 
+411,Bastiodon,Rock,Steel,13,1495,Any frontal attack is repulsed  It is a docile Pokémon that feeds on grass and berries 
+412,Burmy,Bug,,2,34,To shelter itself from cold  wintry winds  it covers itself with a cloak made of twigs and leaves 
+413,Wormadam-plant,Bug,Grass,5,65,When BURMY evolved  its cloak became a part of this Pokémon’s body  The cloak is never shed 
+414,Mothim,Bug,Flying,9,233,It loves the honey of flowers and steals honey collected by COMBEE 
+415,Combee,Bug,Flying,3,55,A Pokémon formed by three others  It busily carries sweet floral honey to VESPIQUEN 
+416,Vespiquen,Bug,Flying,12,385,Its abdomen is a honeycomb for grubs  It raises its grubs on honey collected by COMBEE 
+417,Pachirisu,Electric,,4,39,It makes fur balls that crackle with static electricity  It stores them with berries in tree holes 
+418,Buizel,Water,,7,295,It has a flotation sac that is like an inflatable collar  It floats on water with its head out 
+419,Floatzel,Water,,11,335,It floats using its well-developed flotation sac  It assists in the rescues of drowning people 
+420,Cherubi,Grass,,4,33,栄養の　詰まった　玉は 鳥ポケモンの　大好物。 ついばまれないよう　逃げまわる。
+421,Cherrim,Grass,,5,93,It blooms during times of strong sunlight  It tries to make up for everything it endured as a bud 
+422,Shellos,Water,,3,63,Its colors and shapes differ from region to region  In the Sinnoh region  two types are confirmed 
+423,Gastrodon,Water,Ground,9,299,Attaqué par un prédateur  il fuit en libérant un liquide mauve 
+424,Ambipom,Normal,,12,203,To eat  it deftly shucks nuts with its two tails  It rarely uses its arms now 
+425,Drifloon,Ghost,Flying,4,12,A Pokémon formed by the spirits of people and Pokémon  It loves damp  humid seasons 
+426,Drifblim,Ghost,Flying,12,150,At dusk  swarms of them are carried aloft on winds  When noticed  they suddenly vanish 
+427,Buneary,Normal,,4,55,It slams foes by sharply uncoiling its rolled ears  It stings enough to make a grown-up cry in pain 
+428,Lopunny,Normal,,12,333,An extremely cautious Pokémon  It cloaks its body with its fluffy ear fur when it senses danger 
+429,Mismagius,Ghost,,9,44,Its cries sound like incantations  Those hearing it are tormented by headaches and hallucinations 
+430,Honchkrow,Dark,Flying,9,273,Becoming active at night  it is known to swarm with numerous MURKROW in tow 
+431,Glameow,Normal,,5,39,It claws if displeased and purrs when affectionate  Its fickleness is very popular among some 
+432,Purugly,Normal,,10,438,It is a brazen brute that barges its way into another Pokémon’s nest and claims it as its own 
+433,Chingling,Psychic,,2,6,It emits cries by agitating an orb at the back of its throat  It moves with flouncing hops 
+434,Stunky,Poison,Dark,4,192,It protects itself by spraying a noxious fluid from its rear  The stench lingers for 24 hours 
+435,Skuntank,Poison,Dark,10,380,It sprays a vile-smelling fluid from the tip of its tail to attack  Its range is over 160 feet 
+436,Bronzor,Steel,Psychic,5,605,Se dice que brilla y refleja la verdad al pulirlo  aunque es algo que detesta 
+437,Bronzong,Steel,Psychic,13,1870,One caused a news sensation when it was dug up at a construction site after a 2 000-year sleep 
+438,Bonsly,Rock,,5,150,It looks as if it is always crying  It is actually adjusting its body’s fluid levels by eliminating excess 
+439,Mime-jr,Psychic,Fairy,6,130,It habitually mimics foes  Once mimicked  the foe cannot take its eyes off this Pokémon 
+440,Happiny,Normal,,6,244,It loves round white things  It carries an egg-shaped rock in imitation of CHANSEY 
+441,Chatot,Normal,Flying,5,19,It can learn and speak human words  If they gather  they all learn the same saying 
+442,Spiritomb,Ghost,Dark,10,1080,A Pokémon that was formed by 108 spirits  It is bound to a fissure in an odd keystone 
+443,Gible,Dragon,Ground,7,205,It nests in small  horizontal holes in cave walls  It pounces to catch prey that stray too close 
+444,Gabite,Dragon,Ground,14,560,There is a long-held belief that medicine made from its scales will heal even incurable illnesses 
+445,Garchomp,Dragon,Ground,19,950,When it folds up its body and extends its wings  it looks like a jet plane  It flies at sonic speed 
+446,Munchlax,Normal,,6,1050,It wolfs down its weight in food once a day  swallowing food whole with almost no chewing 
+447,Riolu,Fighting,,7,202,The aura that emanates from its body intensifies to alert others if it is afraid or sad 
+448,Lucario,Fighting,Steel,12,540,It has the ability to sense the auras of all things  It understands human speech 
+449,Hippopotas,Ground,,8,495,It lives in arid places  Instead of perspiration  it expels grainy sand from its body 
+450,Hippowdon,Ground,,20,3000,It blasts internally stored sand from ports on its body to create a towering twister for attack 
+451,Skorupi,Poison,Bug,8,120,It grips prey with its tail claws and injects poison  It tenaciously hangs on until the poison takes 
+452,Drapion,Poison,Dark,13,615,It has the power in its clawed arms to make scrap of a car  The tips of its claws release poison 
+453,Croagunk,Poison,Fighting,7,230,Its cheeks hold poison sacs  It tries to catch foes off guard to jab them with toxic fingers 
+454,Toxicroak,Poison,Fighting,13,444,Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal 
+455,Carnivine,Grass,,14,270,It attracts prey with its sweet- smelling saliva  then chomps down  It takes a whole day to eat prey 
+456,Finneon,Water,,4,70,Die Linie an seiner Seite kann Sonnenlicht speichern  Nachts leuchtet es sehr intensiv 
+457,Lumineon,Water,,12,240,Il vit au plus profond de l’océan  Il attire sa proie en illuminant les motifs de ses quatre nageoires 
+458,Mantyke,Water,Flying,10,650,A friendly Pokémon that captures the subtle flows of seawater using its two antennae 
+459,Snover,Grass,Ice,10,505,It lives on snowy mountains  Having had little contact with humans  it is boldly inquisitive 
+460,Abomasnow,Grass,Ice,22,1355,It whips up blizzards in mountains that are always buried in snow  It is the abominable snowman 
+461,Weavile,Dark,Ice,11,340,They live in cold regions  forming groups of four or five that hunt prey with impressive coordination 
+462,Magnezone,Electric,Steel,12,1800,It evolved from exposure to a special magnetic field  Three units generate magnetism 
+463,Lickilicky,Normal,,17,1400,타액에는 어떤 것도 녹이는 성분이 충분히 포함되어 있어 핥으면 언제까지나 마비된다 
+464,Rhyperior,Ground,Rock,24,2828,It puts rocks in holes in its palms and uses its muscles to shoot them  GEODUDE are shot at rare times 
+465,Tangrowth,Grass,,20,1286,It ensnares prey by extending arms made of vines  Losing arms to predators does not trouble it 
+466,Electivire,Electric,,18,1386,As its electric charge amplifies  blue sparks begin to crackle between its horns 
+467,Magmortar,Fire,,16,680,It blasts fireballs of over 3 600 degrees F from the ends of its arms  It lives in volcanic craters 
+468,Togekiss,Fairy,Flying,15,380,Es zeigt sich nie an Orten  wo Streit und Zwietracht herrschen  In letzter Zeit wird es kaum noch gesehen 
+469,Yanmega,Bug,Flying,19,515,By churning its wings  it creates shock waves that inflict critical internal injuries to foes 
+470,Leafeon,Grass,,10,255,Just like a plant  it uses photosynthesis  As a result  it is always enveloped in clear air 
+471,Glaceon,Ice,,8,259,As a protective technique  it can completely freeze its fur to make its hairs stand like needles 
+472,Gliscor,Ground,Flying,20,425,It observes prey while hanging inverted from branches  When the chance presents itself  it swoops!
+473,Mamoswine,Ice,Ground,25,2910,Its impressive tusks are made of ice  The population thinned when it turned warm after the ice age 
+474,Porygon-z,Normal,,9,340,Additional software was installed to make it a better Pokémon  It began acting oddly  however 
+475,Gallade,Psychic,Fighting,16,520,Comme il peut lire les pensées de ses adversaires  il frappe toujours en premier 
+476,Probopass,Rock,Steel,14,3400,It freely controls three small units called Mini-Noses using magnetic force 
+477,Dusknoir,Ghost,,22,1066,Die Antenne auf seinem Kopf empfängt Radiowellen aus einer anderen Dimension 
+478,Froslass,Ice,Ghost,13,266,It freezes foes with an icy breath nearly -60 degrees F  What seems to be its body is actually hollow 
+479,Rotom,Electric,Ghost,3,3,某位少年的发明 促使人们开始制造 各种活用洛托姆的机器 。
+480,Uxie,Psychic,,3,3,Known as “The Being of Knowledge ” It is said that it can wipe out the memory of those who see its eyes 
+481,Mesprit,Psychic,,3,3,Known as “The Being of Emotion ” It taught humans the nobility of sorrow  pain  and joy 
+482,Azelf,Psychic,,3,3,Known as “The Being of Willpower ” It sleeps at the bottom of a lake to keep the world in balance 
+483,Dialga,Steel,Dragon,54,6830,It has the power to control time  It appears in Sinnoh-region myths as an ancient deity 
+484,Palkia,Water,Dragon,42,3360,It has the ability to distort space  It is described as a deity in Sinnoh-region mythology 
+485,Heatran,Fire,Steel,17,4300,It dwells in volcanic caves  It digs in with its cross-shaped feet to crawl on ceilings and walls 
+486,Regigigas,Normal,,37,4200,There is an enduring legend that states this Pokémon towed continents with ropes 
+487,Giratina-altered,Ghost,Dragon,45,7500,A Pokémon that is said to live in a world on the reverse side of ours  It appears in an ancient cemetery 
+488,Cresselia,Psychic,,15,856,Shiny particles are released from its wings like a veil  It is said to represent the crescent moon 
+489,Phione,Water,,4,31,Si sposta nei mari caldi  Torna sempre dove è nato  anche se si trova molto lontano 
+490,Manaphy,Water,,3,14,Born on a cold seafloor  it will swim great distances to return to its birthplace 
+491,Darkrai,Dark,,15,505,It can lull people to sleep and make them dream  It is active during nights of the new moon 
+492,Shaymin-land,Grass,,2,21,Puede disolver las toxinas del aire para transformar tierra yerma en campos de flores 
+493,Arceus,Normal,,32,3200,It is described in mythology as the Pokémon that shaped the universe with its 1 000 arms 
+494,Victini,Psychic,Fire,4,40,Un Pokémon qui amène la victoire  On dit que les Dresseurs qui le possèdent peuvent gagner n’importe quel combat 
+495,Snivy,Grass,,6,81,Un Pokémon intelligent et très calme  Lorsqu’il a reçu suffisamment de lumière du soleil  il devient plus agile 
+496,Servine,Grass,,8,160,Il court comme s’il glissait sur le sol  Il déroute l’ennemi par ses mouvements et l’assomme d’un coup de liane 
+497,Serperior,Grass,,33,630,Il peut paralyser l’ennemi d’un regard  Il amplifie l’énergie du soleil dans son corps 
+498,Tepig,Fire,,5,99,Il évite agilement les attaques ennemies et crache des boules de feu par le groin  Il aime griller des Baies pour les manger 
+499,Pignite,Fire,Fighting,10,555,Quand le feu dans son corps s’embrase  sa vitesse et son agilité augmentent  En cas d’urgence  il crache de la fumée 
+500,Emboar,Fire,Fighting,16,1500,Il embrase ses poings avec les flammes sur son menton et cogne l’ennemi avec  C’est un Pokémon très solidaire 
+501,Oshawott,Water,,5,59,Il combat avec le coupillage de son ventre  Il peut parer un assaut et immédiatement contre-attaquer 
+502,Dewott,Water,,8,245,L’apprentissage de sa technique de combat  qui utilise élégamment ses deux coupillages  est extrêmement rigoureux 
+503,Samurott,Water,,15,946,Il peut terrasser ses ennemis d’un coup de la lame enchâssée dans son armure  et les faire taire d’un seul regard 
+504,Patrat,Normal,,5,116,Ils stockent à manger dans leurs bajoues et font le guet indéfiniment  Ils se font des signes en remuant la queue 
+505,Watchog,Normal,,11,270,Il attaque en crachant les graines des Baies qu’il accumule dans ses bajoues  S’il voit un ennemi  il dresse la queue 
+506,Lillipup,Normal,,4,41,Il fait vaillamment face à des ennemis très puissants  mais il est intelligent et évite les combats trop inégaux 
+507,Herdier,Normal,,9,147,Les poils qui entourent son corps comme un manteau sont extrêmement durs et amortissent les coups 
+508,Stoutland,Normal,,12,610,Il sauve les gens bloqués dans les montagnes par des tempêtes de neige  Ses longs poils le protègent du froid 
+509,Purrloin,Dark,,4,101,Il vole les gens pour le plaisir  mais il est tellement mignon que ses victimes finissent toujours par lui pardonner 
+510,Liepard,Dark,,11,375,Un Pokémon insaisissable  Son style et son pelage magnifique attirent de nombreux Dresseurs 
+511,Pansage,Grass,,6,105,Il vit dans les forêts profondes  Manger la feuille qui pousse sur sa tête fait disparaître la fatigue 
+512,Simisage,Grass,,11,305,Il a un tempérament violent et se bat avec sa queue pleine d’épines  La feuille sur sa tête est très amère 
+513,Pansear,Fire,,6,110,Quand il s’énerve  la mèche sur sa tête chauffe à 300 °C  Il s’en sert pour griller des Baies et les manger 
+514,Simisear,Fire,,10,280,Il adore les aliments sucrés  Ils lui servent d’énergie pour alimenter le feu à l’intérieur de son corps 
+515,Panpour,Water,,6,135,L’eau contenue dans la mèche sur sa tête est pleine de nutriments  Elle fait pousser les plantes avec vigueur 
+516,Simipour,Water,,10,290,Il stocke de l’eau dans les mèches de sa tête  Quand il est à sec  il se ravitaille en aspirant de l’eau par la queue 
+517,Munna,Psychic,,6,233,Quand Munna mange un rêve  celui-ci est aussitôt oublié par le rêveur  Il lévite en permanence 
+518,Musharna,Psychic,,11,605,La fumée qui sort de son front contient les rêves de nombreuses personnes et ceux de nombreux Pokémon 
+519,Pidove,Normal,Flying,3,21,Il suit scrupuleusement les consignes de son Dresseur  mais il a du mal à comprendre les ordres trop compliqués 
+520,Tranquill,Normal,Flying,6,150,Aussi éloigné qu’il puisse se trouver  il parvient toujours à retourner auprès de son Dresseur 
+521,Unfezant,Normal,Flying,12,290,Le mâle intimide ses ennemis avec ses caroncules  La femelle vole mieux que le mâle 
+522,Blitzle,Electric,,8,298,When thunderclouds cover the sky  it will appear  It can catch lightning with its mane and store the electricity 
+523,Zebstrika,Electric,,16,795,Il réagit à la vitesse de l’éclair  Lorsqu’il est en plein galop  on peut entendre le grondement du tonnerre 
+524,Roggenrola,Rock,,4,180,Il a une oreille hexagonale  Son corps  compressé dans des strates profondes  est dur comme de l’acier 
+525,Boldore,Rock,,9,1020,Quand il est gonflé à bloc  ses cristaux orangés scintillent  Il cherche de l’eau souterraine dans les grottes 
+526,Gigalith,Rock,,17,2600,Il comprime de l’énergie dans son corps  et ses attaques sont assez puissantes pour renverser des montagnes 
+527,Woobat,Psychic,Flying,4,21,Il vit dans les forêts sombres et les grottes  Il émet des ultrasons par le nez pour se diriger 
+528,Swoobat,Psychic,Flying,9,105,コンクリートも　こわせるほどの つよい　ちょうおんぱを　だすとき しっぽが　はげしく　ふるえる。
+529,Drilbur,Ground,,3,85,Il peut creuser à plus de 50 km/h et faire la course avec une voiture roulant sur le terrain qu’il creuse 
+530,Excadrill,Ground,Steel,7,404,Ses vrilles en acier peuvent transpercer des poutres en fer  Il est très employé dans la construction de tunnels 
+531,Audino,Normal,,11,310,Il ausculte les gens avec ses antennes auriculaires pour juger de leurs émotions ou de leur santé 
+532,Timburr,Fighting,,6,125,Il combat avec une poutre  Quand il en arrive à transporter de lourds madriers sans problème  l’évolution est proche 
+533,Gurdurr,Fighting,,12,400,Même une armée de catcheurs se jetant sur son corps hyper musclé ne le ferait pas ciller 
+534,Conkeldurr,Fighting,,14,870,On pense que la recette du ciment a été enseignée aux humains par un Bétochef il y a 2 000 ans 
+535,Tympole,Water,,5,45,Il prévient ses camarades du danger en faisant vibrer ses joues pour générer un signal d’alarme très aigu 
+536,Palpitoad,Water,Ground,8,170,Quand il fait vibrer la bosse sur sa tête  il provoque des ondulations dans l’eau  mais aussi des tremblements de terre 
+537,Seismitoad,Water,Ground,15,620,Il fait gicler un liquide paralysant des pustules sur sa tête  et attaque ses ennemis à coups de vibrations 
+538,Throh,Fighting,,13,555,Quand il noue sa ceinture  il devient plus puissant  Les Judokrak sauvages tressent leur ceinture avec des lianes 
+539,Sawk,Fighting,,14,510,Es lebt zurückgezogen in den Bergen und trainiert Tag und Nacht  um seinen Karateschlag zu perfektionieren 
+540,Sewaddle,Bug,Grass,3,25,Quand il éclot  Manternel lui coud son vêtement  Il dort en cachant son visage sous sa capuche 
+541,Swadloon,Bug,Grass,5,73,Dans les forêts où il vit  la végétation pousse bien car il transforme les feuilles mortes en engrais 
+542,Leavanny,Bug,Grass,12,205,Quand il trouve de petits Pokémon  il leur coud des vêtements de feuilles en utilisant ses coupoirs et son fil adhésif 
+543,Venipede,Bug,Poison,4,53,Sa morsure est très venimeuse  Elle paralyse même les grands Pokémon Oiseaux  ses prédateurs 
+544,Whirlipede,Bug,Poison,12,585,Protégé par sa solide carapace  il fonce sur ses ennemis en roulant comme un pneu 
+545,Scolipede,Bug,Poison,25,2005,Il accule l’ennemi par ses mouvements rapides et l’attaque avec ses cornes  Il ne s’arrête qu’au coup de grâce 
+546,Cottonee,Grass,Fairy,3,6,Si on l’attaque  il projette un nuage de coton  L’ennemi le confond avec lui  ce qui permet à Doudouvet de s’enfuir 
+547,Whimsicott,Grass,Fairy,7,66,沒有特定的棲息地。 會乘著旋風移動， 到處現身去惡作劇。
+548,Petilil,Grass,,5,66,Les feuilles sur sa tête sont très amères  mais elles remettent d’aplomb les corps les plus éreintés 
+549,Lilligant,Grass,,11,163,Même les Dresseurs confirmés ont du mal à faire éclore sa belle fleur  Un Pokémon apprécié des célébrités 
+550,Basculin-red-striped,Water,,10,180,Les bleus et les rouges se détestent cordialement et se battent dès qu’ils s’aperçoivent  Un Pokémon très violent 
+551,Sandile,Ground,Dark,7,152,Il vit dans le sable des déserts  Le sable chauffé par le soleil empêche son corps de refroidir 
+552,Krokorok,Ground,Dark,10,334,Ils vivent en petits groupes  La membrane qui couvre leurs yeux les protège du soleil 
+553,Krookodile,Ground,Dark,15,963,Il ne laisse jamais échapper ses proies  Ses mâchoires surpuissantes peuvent broyer une voiture 
+554,Darumaka,Fire,,6,375,Quand le feu brûle dans son corps  il est tout excité et court partout  Quand le feu s’apaise  il s’endort 
+555,Darmanitan-standard,Fire,,13,929,Il entretient des flammes à 1 400 °C dans son corps  De quoi détruire un camion-benne d’un coup de poing!
+556,Maractus,Grass,,10,280,Avec une danse et des sons saccadés  il fait fuir ses prédateurs  les Pokémon Oiseaux dévoreurs de graines de fleur 
+557,Dwebble,Bug,Rock,3,145,Il peut facilement creuser son trou dans les pierres les plus dures grâce au liquide sécrété par sa bouche 
+558,Crustle,Bug,Rock,14,2000,Entre eux  les querelles de territoire sont fréquentes et violentes  Celui qui se fait briser son rocher a perdu 
+559,Scraggy,Dark,Fighting,6,118,Il remonte sa peau jusqu’à son cou pour se protéger  Elle a une constitution élastique qui absorbe les coups 
+560,Scrafty,Dark,Fighting,11,300,Ils se regroupent pour rosser ceux qui pénètrent sur leur territoire  Ils crachent un venin corrosif 
+561,Sigilyph,Psychic,Flying,14,140,On dit qu’il parcourt toujours le même itinéraire parce qu’il a gardé la mémoire de la ville antique qu’il protégeait 
+562,Yamask,Ghost,,5,15,Le motif de son masque est son visage quand il était humain  Parfois  il le regarde et se met à pleurer 
+563,Cofagrigus,Ghost,,17,765,황금으로 된 반짝거리는 몸  자신이 인간이었다는 사실을 이제는 기억하지 못할 것이다 
+564,Tirtouga,Water,Rock,7,165,Il a été recréé à partir d’un fossile préhistorique  Il peut plonger jusqu’à 1 000 mètres de profondeur 
+565,Carracosta,Water,Rock,12,810,Il vit sur terre et en mer  Ses bras surpuissants peuvent percer des trous dans la coque des paquebots 
+566,Archen,Rock,Flying,5,95,On dit qu’il serait l’ancêtre de tous les Pokémon Oiseaux  Il ne sait pas voler et se déplace en sautant d’arbre en arbre 
+567,Archeops,Rock,Flying,14,320,Il s’envole après avoir pris de l’élan  Il est assez intelligent pour chasser ses proies en groupe 
+568,Trubbish,Poison,,6,310,Il aime les endroits mal tenus  Le gaz qu’il rote endort pendant une semaine 
+569,Garbodor,Poison,,19,1073,Il étrangle ses ennemis avec son bras droit et les achève avec le gaz puant et empoisonné qu’il exhale par la bouche 
+570,Zorua,Dark,,7,125,Il a le pouvoir de prendre l’apparence des autres  On dit qu’il se transforme souvent en petit enfant silencieux 
+571,Zoroark,Dark,,16,811,Ces Pokémon protègent les leurs en prenant l’apparence de leurs ennemis  Ils forment des groupes très soudés 
+572,Minccino,Normal,,4,58,Ils se saluent en se caressant mutuellement le corps avec la queue  qu’ils gardent toujours immaculée 
+573,Cinccino,Normal,,5,75,Leurs poils blancs sont recouverts d’une graisse spéciale qui leur permet d’esquiver facilement les attaques 
+574,Gothita,Psychic,,4,58,Concentre des pouvoirs psychiques dans ses antennes semblables à des rubans  et regarde fixement    mais quoi?
+575,Gothorita,Psychic,,7,180,Hypnotise les Pokémon et les gens  Il y a de nombreuses légendes de gens enlevés dans leur sommeil par des Mesmérella 
+576,Gothitelle,Psychic,,15,440,Ses pouvoirs psychiques plient l’espace aux alentours  On y voit des étoiles éloignées de millions d’années-lumière 
+577,Solosis,Psychic,,3,10,Ils repoussent leurs assaillants avec leurs pouvoirs psychiques et communiquent entre eux par télépathie 
+578,Duosion,Psychic,,6,80,Cuando las dos partes de su cerebro piensan lo mismo  saca todo su poder a relucir 
+579,Reuniclus,Psychic,,10,201,Quand ils se tiennent par la main  leurs cerveaux forment un réseau qui démultiplie leurs pouvoirs psychiques 
+580,Ducklett,Water,Flying,5,55,Un Pokémon Oiseau doué pour la plongée  Il nage sous l’eau à la recherche de sphaigne  son plat préféré 
+581,Swanna,Water,Flying,13,242,Ils se mettent à danser à la tombée de la nuit  Le Lakmécygne qui danse au centre est le chef de la troupe 
+582,Vanillite,Ice,,4,57,Il exhale une haleine à -50 °C  Il fabrique des cristaux de neige et fait neiger autour de lui 
+583,Vanillish,Ice,,11,410,Un Pokémon qui vit dans les montagnes enneigées  Il a émigré au sud durant l’ère glaciaire  il y a bien longtemps 
+584,Vanilluxe,Ice,,13,575,Il avale de l’eau en grande quantité et la transforme en nuages neigeux  Il souffle du blizzard sur ses ennemis 
+585,Deerling,Normal,Grass,6,195,Son pelage prend la même couleur et la même odeur que les hautes herbes  S’il sent un ennemi  il court s’y réfugier 
+586,Sawsbuck,Normal,Grass,19,925,Il change d’habitat selon les saisons  Les gens constatent le passage des saisons en regardant ses ramures 
+587,Emolga,Electric,Flying,4,50,Il accumule dans ses membranes l’électricité qu’il produit dans ses bajoues  et la relâche tout en planant 
+588,Karrablast,Bug,,5,59,Un Pokémon mystérieux qui évolue quand il reçoit un stimulus électrique en étant proche d’un Escargaume 
+589,Escavalier,Bug,Steel,10,330,Ce Pokémon se protège avec la carapace dérobée à un Escargaume et attaque avec ses deux redoutables lances 
+590,Foongus,Grass,Poison,2,10,Grâce à sa ressemblance mystérieuse avec une Poké Ball  il attire ses ennemis et relâche des spores empoisonnées 
+591,Amoonguss,Grass,Poison,6,105,Il danse en faisant tournoyer les coupoles en forme de Poké Ball de ses bras pour attirer ses proies 
+592,Frillish,Water,Ghost,12,330,Il s’enfonce dans les profondeurs de la mer en emmenant son ennemi  qu’il ligote avec ses bras fins comme des voiles 
+593,Jellicent,Water,Ghost,22,1350,Les bateaux qui s’aventurent sur son territoire coulent  et Moyade aspire l’énergie vitale des marins 
+594,Alomomola,Water,,12,316,La membrane spéciale qui entoure son corps a la capacité de guérir les blessures 
+595,Joltik,Bug,Electric,1,6,Les Statitik qui vivent en ville ont appris à aspirer le courant depuis les prises électriques des maisons 
+596,Galvantula,Bug,Electric,8,143,Quand on l’attaque  il projette une multitude de fils électrifiés pour créer une barrière électrique 
+597,Ferroseed,Grass,Steel,6,188,Quand il sent un danger  il réagit en projetant toutes ses épines d’un coup et s’enfuit en roulant sur lui-même 
+598,Ferrothorn,Grass,Steel,10,1100,Il combat avec ses trois tentacules épineux  Un coup de ses épines d’acier peut briser en deux de gros rochers 
+599,Klink,Steel,,3,210,La compatibilité entre ses deux rouages est prédéterminée  Ceux-ci ne se fixeront à aucun autre 
+600,Klang,Steel,,6,510,Ils communiquent entre eux en changeant leur sens de rotation  Plus ils sont en colère  plus ils tournent vite 
+601,Klinklang,Steel,,6,810,Il accumule rapidement de l’énergie en faisant tourner très vite le rouage qui contient son noyau rouge 
+602,Tynamo,Electric,,2,3,Tout seuls  ils ne dégagent pas beaucoup d’électricité  mais un banc d’Anchwatt produit la même puissance qu’un éclair 
+603,Eelektrik,Electric,,12,220,Ses taches rondes émettent de l’électricité  Il s’enroule autour de ses proies et les électrocute 
+604,Eelektross,Electric,,21,805,Il peut sortir de l’eau à la force de ses bras pour attraper des proies sur la rive  Il retourne à l’eau en un instant 
+605,Elgyem,Psychic,,5,90,Avec son puissant pouvoir psychique  il peut compresser le cerveau de ses ennemis et déclencher des migraines 
+606,Beheeyem,Psychic,,10,345,会用精神力量改写对手的记忆。 你说不定也已经被改写了。
+607,Litwick,Ghost,Fire,3,31,Sa flamme brûle en consumant l’énergie vitale des gens et des Pokémon 
+608,Lampent,Ghost,Fire,6,130,Un Pokémon craint pour être de mauvais augure  Il erre dans les villes à la recherche d’âmes de défunts 
+609,Chandelure,Ghost,Fire,10,343,Il brûle en aspirant les âmes  et hypnotise ses ennemis en faisant osciller les flammes de ses bras 
+610,Axew,Dragon,,6,180,Il broie les Baies à grands coups de crocs  Ceux-ci repoussent plusieurs fois  toujours plus forts et aiguisés 
+611,Fraxure,Dragon,,10,360,Comme ses crocs brisés ne repoussent pas  il les aiguise après le combat grâce à une pierre ramassée près d’un fleuve 
+612,Haxorus,Dragon,,18,1055,Il est doux  mais ne pardonne pas à ceux qui viennent saccager son territoire  Ses crocs peuvent découper de l’acier 
+613,Cubchoo,Ice,,5,85,Quand il est malade  sa goutte au nez dégèle et ses capacités de type Glace deviennent moins efficaces 
+614,Beartic,Ice,,26,2600,Il fait lui-même geler son haleine  Il est bon nageur et sillonne les mers du nord à la recherche de ses proies 
+615,Cryogonal,Ice,,11,1480,會操縱用冰做成的鎖鏈 凍住遇見的獵物，然後 把牠帶去不知名的地方。
+616,Shelmet,Bug,,4,77,Quand on l’attaque  il referme sa visière pour se défendre  et projette un poison visqueux 
+617,Accelgor,Bug,,8,253,Quand son corps s’assèche  il faiblit  Il s’en prémunit en s’enroulant dans plusieurs couches d’une fine muqueuse 
+618,Stunfisk,Ground,Electric,7,110,Sa peau est si dure qu’il peut se faire piétiner par un sumo sans rien sentir  Il sourit en émettant de l’électricité 
+619,Mienfoo,Fighting,,9,200,Il découpe ses ennemis avec ses griffes acérées et les terrasse avec ses enchaînements de coups hyper fluides 
+620,Mienshao,Fighting,,14,355,快到無法看清的踢腿 非常強烈，即使是 巨大的岩石也能粉碎。
+621,Druddigon,Dragon,,16,1390,Il utilise ses ailes pour emmagasiner la chaleur du soleil  Si la température de son corps baisse  il ne peut plus bouger 
+622,Golett,Ground,Ghost,10,920,Il se meut grâce à l’énergie stockée dans son corps  Personne ne sait d’où vient cette énergie mystérieuse 
+623,Golurk,Ground,Ghost,28,3300,Il vole à la vitesse du son  Si le sceau sur sa poitrine est retiré  il perd tout contrôle de lui-même 
+624,Pawniard,Dark,Steel,5,102,Tout son corps est fait de lames  Si une lame s’émousse  il va l’aiguiser contre une pierre au bord d’une rivière 
+625,Bisharp,Dark,Steel,16,700,Ils dirigent les groupes de Scalpion  Ils se battent pour la suprématie sur le groupe  et les perdants en sont exclus 
+626,Bouffalant,Normal,,16,946,Son pelage fourni absorbe les chocs et lui permet d’asséner sans broncher le plus violent des coups de tête 
+627,Rufflet,Normal,Flying,5,105,They crush berries with their talons  They bravely stand up to any opponent  no matter how strong it is 
+628,Braviary,Normal,Flying,15,410,Pour les siens  il combat au mépris du danger  Il est capable de soulever une voiture haut dans le ciel 
+629,Vullaby,Dark,Flying,5,90,Their wings are too tiny to allow them to fly  They guard their posteriors with bones that were gathered by Mandibuzz 
+630,Mandibuzz,Dark,Flying,12,395,Il construit des nids en os  Il attrape les proies affaiblies avec ses serres et les transporte allègrement au nid 
+631,Heatmor,Fire,,14,580,Il aspire de l’air par la queue et entretient un brasier dans son corps  C’est le prédateur des Fermite 
+632,Durant,Bug,Steel,3,330,Ils portent une armure de fer et se regroupent pour contrer les attaques de leurs prédateurs  les Aflamanoir 
+633,Deino,Dark,Dragon,8,173,Il mord tout ce qui bouge  et mange tout ce qu’il trouve  Il vaut mieux éviter de s’en approcher 
+634,Zweilous,Dark,Dragon,14,500,After it has eaten up all the food in its territory  it moves to another area  Its two heads do not get along 
+635,Hydreigon,Dark,Dragon,18,1600,Un Pokémon violent qui patrouille le ciel avec ses six ailes et se jette sur tout ce qui bouge  pensant voir un ennemi 
+636,Larvesta,Bug,Fire,11,288,On dit que ce Pokémon serait né du soleil  Lorsqu’il évolue  tout son corps est enveloppé de flammes 
+637,Volcarona,Bug,Fire,16,460,On dit que quand le ciel s’est obscurci à cause des cendres d’un volcan  le feu d’un Pyrax aurait remplacé le soleil 
+638,Cobalion,Steel,Fighting,21,2500,Un Pokémon légendaire qui a combattu les humains pour protéger les Pokémon  Il est d’un naturel calme et posé 
+639,Terrakion,Rock,Fighting,19,2600,Il a combattu les humains pour protéger les Pokémon ayant perdu leur foyer à cause de leurs guerres fratricides 
+640,Virizion,Grass,Fighting,20,2000,Il a défié les humains pour protéger les siens  Son nom est resté dans la légende 
+641,Tornadus-incarnate,Flying,,15,630,Le bas de son corps est entouré d’une masse d’énergie semblable à un nuage  Il vole dans le ciel à 300 km/h 
+642,Thundurus-incarnate,Electric,Flying,15,610,Les terres qu’il a survolées sont recouvertes d’innombrables traces des éclairs qu’il y a fait tomber 
+643,Reshiram,Dragon,Fire,32,3300,Un Pokémon mythique  Il projette de sa queue un tourbillon de flammes capable de tout emporter 
+644,Zekrom,Dragon,Electric,29,3450,Sa queue produit de l’électricité  Il dissimule son corps dans un nuage électrique et plane dans le ciel d’Unys 
+645,Landorus-incarnate,Ground,Flying,15,680,Il fait fructifier les cultures partout où il passe  c’est pourquoi on l’appelle “le dieu des moissons” 
+646,Kyurem,Dragon,Ice,30,3250,레시라무와 제크로무를 능가할 정도의 힘을 가졌으나 극저온의 냉기에 봉인되어 있다 
+647,Keldeo-ordinary,Water,Fighting,14,485,Il projette de l’eau depuis ses sabots et se déplace ainsi à grande vitesse  Sa botte secrète est le coup de sabot 
+648,Meloetta-aria,Normal,Psychic,6,65,Its melodies are sung with a special vocalization method that can control the feelings of those who hear it 
+649,Genesect,Bug,Steel,15,825,Il y a 300 millions d’années  il était craint comme l’ultime prédateur  Il a été modifié par la Team Plasma 
+650,Chespin,Grass,,4,90,ふだん　やわらかい　あたまの　トゲは ちからを　こめると　するどく　とがり いわをも　つらぬくほど　かたくなる。
+651,Quilladin,Grass,,7,290,からだを　おおう　がんじょうな　カラが てきの　こうげきを　はじきかえし するどい　トゲで　はんげきする。
+652,Chesnaught,Grass,Fighting,16,900,たいあたりで　５０トンの　せんしゃを ひっくりかえす　パワー。じぶんが たてと　なって　なかまを　まもる。
+653,Fennekin,Fire,,4,94,こえだを　たべると　げんきになって せっし２００どを　こえる　ねっきを おおきな　みみから　ふきだす。
+654,Braixen,Fire,,10,145,きのえだを　しっぽに　さしている。 しっぽの　けの　まさつねつで えだに　ひをつけて　たたかう。
+655,Delphox,Fire,Psychic,15,390,つえの　せんたんで　もえる　ほのおを みつめて　せいしんとういつすると みらいの　できごとを　みとおせる。
+656,Froakie,Water,,3,70,むねと　せなかから　あわを　だす。 だんりょくのある　あわで　こうげきを うけとめて　ダメージを　へらす。
+657,Frogadier,Water,,6,109,あわで　つつんだ　こいしを　なげる わざを　つかう。３０メートル　さきの あきかんに　あてる　コントロール。
+658,Greninja,Water,Dark,15,400,みずを　あっしゅくして　しゅりけんを つくりだす。こうそくかいてんさせて とばすと　きんぞくも　まっぷたつ。
+659,Bunnelby,Normal,,4,50,おおきな　みみで　じめんを　ほって すあなを　つくる。ひとばんじゅう やすまずに　ほりつづけられる。
+660,Diggersby,Normal,Ground,10,424,おおきな　みみは　１トンを　こえる いわを　らくに　もちあげる　パワー。 こうじげんばで　だいかつやくする。
+661,Fletchling,Normal,Flying,3,17,ひとなつっこい　せいかく。うつくしい さえずりと　おばねを　ふる　うごきで なかまに　あいずを　おくる。
+662,Fletchinder,Fire,Flying,7,160,ひのこを　クチバシから　とばして くさむらを　こがし　おどろいて とびだした　えものを　つかまえる。
+663,Talonflame,Fire,Flying,12,245,主要的獵物是鳥寶可夢。 會急速接近對手，然後用 猛烈的腳踢把對手擊落到地面。
+664,Scatterbug,Bug,,3,25,とりポケモンに　おそわれると くろい　こなを　まきちらす。 ふれると　マヒする　どくのこなだ。
+665,Spewpa,Bug,,3,84,しげみの　かげに　かくれて　くらす。 てきに　おそわれると　からだの　けを するどく　さかだてて　いかくする。
+666,Vivillon,Bug,Flying,12,170,せかいには　さまざまな　はねもようの ビビヨンがいる。すんでいる　とちの きこうが　えいきょうしているようだ。
+667,Litleo,Fire,Normal,6,135,つよい　あいてに　たちむかうときほど たてがみが　こうおんになり ぜんしんに　ちからが　みなぎるのだ。
+668,Pyroar,Fire,Normal,15,815,The male with the largest mane of fire is the leader of the pride 
+669,Flabebe,Fairy,,1,1,Die Krone auf seinem Kopf hat es sich aus Pollen von Blumen gebastelt  Sie besitzt eine heilende Wirkung 
+670,Floette,Fairy,,2,9,はなばたけを　とびまわり　かれかけた はなを　せわする。はなの　ひめられた ちからを　ひきだして　たたかう。
+671,Florges,Fairy,,11,100,テリトリーは　みごとな　はなぞの。 くさばなが　はなつ　エネルギーを あびて　じぶんの　パワーにするのだ。
+672,Skiddo,Grass,,9,310,ひとと　くらすようになった さいしょの　ポケモンと　いわれる。 おだやかな　せいかくの　ポケモン。
+673,Gogoat,Grass,,17,910,ツノを　にぎる　わずかな　ちがいから トレーナーの　きもちを　よみとるので いったいとなって　はしれるのだ。
+674,Pancham,Fighting,,6,80,Il fait de son mieux pour avoir un air patibulaire  mais il sourit béatement dès qu’on lui caresse la tête 
+675,Pangoro,Fighting,Dark,21,1360,きしょうが　あらく　けんかっぱやいが よわいものいじめは　ゆるさない。 はっぱで　てきの　うごきを　よむ。
+676,Furfrou,Normal,,12,280,ボサボサの　たいもうを　かりこむと すがたが　うつくしくなる　だけでなく からだの　キレが　よくなるのだ。
+677,Espurr,Psychic,,3,35,きょうりょくな　サイコパワーが もれださないように　ほうしゅつする きかんを　みみで　ふさいでいるのだ。
+678,Meowstic-male,Psychic,,6,85,きけんが　せまると　みみを　もちあげ １０トン　トラックを　ひねりつぶす サイコパワーを　かいほうする。
+679,Honedge,Steel,Ghost,8,20,ししゃの　たましいが　こだいの つるぎに　やどって　うまれたらしい。 ひとに　とりつき　いのちを　すう。
+680,Doublade,Steel,Ghost,8,45,しんかして　２ほんに　ぶんれつした。 テレパシーで　かいわして　れんけい こうげきで　てきを　きりきざむ。
+681,Aegislash-shield,Steel,Ghost,17,530,れきだいの　おうが　つれていた。 れいりょくで　ひとや　ポケモンの こころを　あやつり　したがわせる。
+682,Spritzee,Fairy,,2,5,かいだ　ものを　うっとりさせる かおりを　からだから　ただよわせる。 たべた　もので　かおりが　かわる。
+683,Aromatisse,Fairy,,8,155,さまざまな　においを　つくりだす。 あいての　いやがる　においを　だして たたかいを　ゆうりに　すすめるのだ。
+684,Swirlix,Fairy,,4,35,わたあめのような　あまくて　ベタつく しろい　いとを　だして　あいてを からめとり　うごきを　ふうじる。
+685,Slurpuff,Fairy,,8,50,体臭から　心と　体の 調子を　嗅ぎとる。　医療への 応用が　期待されている。
+686,Inkay,Dark,Psychic,4,35,はっこうたいの　てんめつを　みつめた あいては　めが　くらみ　たたかう きもちが　なくなってしまうのだ。
+687,Malamar,Dark,Psychic,15,470,ポケモンで　いちばん　きょうりょくな さいみんじゅつを　つかう。あいてを いのままに　あやつってしまうのだ。
+688,Binacle,Rock,Water,5,310,２ひきの　カメテテが　ひとつの いわで　くらす。ケンカすると どちらかが　ほかの　いわに　うつる。
+689,Barbaracle,Rock,Water,13,960,しんかのとき　２ひきの　カメテテが ７ひきに　ぶんれつした　ポケモン。 ７ひきぶんの　パワーで　たたかう。
+690,Skrelp,Poison,Water,5,73,くさった　かいそうに　ぎたいする。 きづかずに　ちかよってきた　えものに どくえきを　あびせて　しとめる。
+691,Dragalge,Poison,Dragon,18,815,タンカーの　せんたいを　くさらせる もうどくを　なわばりに　はいりこんだ ものに　みさかいなく　はきかける。
+692,Clauncher,Water,,5,83,おおきな　ハサミから　あっしゅくした みずを　ピストルのように　うちだし とんでいる　えものを　うちおとす。
+693,Clawitzer,Water,,13,353,みずの　ほうだんを　はっしゃする きょだいな　ハサミを　もつ。 タンカーの　せんたいを　うちぬくぞ。
+694,Helioptile,Electric,Normal,5,60,さばくで　せいかつする。たいようの ひかりを　あびて　はつでんすれば エサを　たべなくても　へいきなのだ。
+695,Heliolisk,Electric,Normal,10,210,L’électricité que produit un seul Iguolta en agitant sa collerette suffit à alimenter un immeuble entier 
+696,Tyrunt,Rock,Dragon,8,260,かせきから　ふっかつした　ポケモン。 きにいらない　ことが　あると かんしゃくを　おこして　おおあばれ。
+697,Tyrantrum,Rock,Dragon,25,2700,ぶあつい　てっぱんを　かみのように かみちぎる　おおあごで　こだいの せかいでは　むてきを　ほこった。
+698,Amaura,Rock,Ice,13,252,１おくねんまえから　こおりづけに なっていた　からだの　いちぶから ふっかつした　こだいの　ポケモン。
+699,Aurorus,Rock,Ice,27,2250,マイナス１５０どの　れいきを ひしがたの　けっしょうから　だして てきを　つつみ　こおりづけにする。
+700,Sylveon,Fairy,,10,235,リボンのような　しょっかくから きもちを　やわらげる　はどうを おくりこみ　たたかいを　やめさせる。
+701,Hawlucha,Fighting,Flying,8,215,たいかくは　こがらだが　カイリキーや ハリテヤマなど　おおきな　ポケモンと ごかくに　たたかう　テクニシャン。
+702,Dedenne,Electric,Fairy,2,22,能用鬍鬚接收來自夥伴們 的電波，藉此向彼此分享 哪裡有食物或電力。
+703,Carbink,Rock,Fairy,3,57,ちかふかくの　こうおん　こうあつな かんきょうで　うまれた。あたまの いしから　エネルギーを　はなつ。
+704,Goomy,Dragon,,3,28,Il suo corpo è coperto da una membrana viscida che fa scivolare e devia i colpi dei nemici 
+705,Sliggoo,Dragon,,8,175,なんでも　とかしてしまう　ねんえきを ぶんぴつして　てきを　げきたいする。 めだまは　たいかして　みえていない。
+706,Goodra,Dragon,,20,1505,ひとなつっこい　ドラゴンポケモン。 だいすきな　トレーナーに　だきついて ねんえきで　ヌルヌルにしてしまう。
+707,Klefki,Steel,Fairy,2,30,カギを　あつめる　しゅうせい。 てきに　おそわれると　ジャラジャラと カギを　うちならして　いかくする。
+708,Phantump,Ghost,Grass,4,70,くさった　きりかぶに　たましいが やどり　ポケモンに　なった。 ひとの　よりつかない　もりに　すむ。
+709,Trevenant,Ghost,Grass,15,710,ほかの　きぎを　じざいに　あやつる。 もりを　あらす　にんげんは　しぬまで もりから　でられないようにするのだ。
+710,Pumpkaboo-average,Ghost,Grass,4,50,じょうぶつできない　たましいを かぼちゃの　からだに　いれている。 ひぐれと　ともに　うごきはじめる。
+711,Gourgeist-average,Ghost,Grass,9,125,しんげつの　よるに　ぶきみな　こえで うたいながら　まちなかを　さまよう。 その　うたを　きくと　のろわれる。
+712,Bergmite,Ice,,10,995,からだを　おおう　こおりが　てきの こうげきを　ふせぐ。わられても れいきで　すぐに　こおりを　はる。
+713,Avalugg,Ice,,20,5050,こおりついた　からだは　こうてつの ように　かたい。たちふさがる　ものを きょたいで　おしつぶし　いどうする。
+714,Noibat,Flying,Dragon,5,80,まっくらな　どうくつで　くらす。 ２０まんヘルツの　ちょうおんぱを おおきな　みみから　はっしゃする。
+715,Noivern,Flying,Dragon,15,850,つきあかりすら　ない　やみよを　とび ゆだんしている　えものを　おそう。 くらやみの　たたかいでは　むてきだ。
+716,Xerneas,Fairy,,30,2150,えいえんの　いのちを　わけあたえると いわれている。じゅもくの　すがたで １０００ねん　ねむり　ふっかつする。
+717,Yveltal,Dark,Flying,58,2030,つばさと　おばねを　ひろげて　あかく かがやくとき　いきものの　いのちを すいとる　でんせつの　ポケモン。
+718,Zygarde-50,Dragon,Ground,50,3050,カロスちほうの　せいたいけいが くずれると　すがたを　あらわして ひめた　ちからを　はっきするらしい。
+719,Diancie,Rock,Fairy,7,88,メレシーの　とつぜんへんい。 ピンクいろに　かがやく　からだは せかいいち　うつくしいと　いわれる。
+720,Hoopa,Psychic,Ghost,5,90,くうかんを　ゆがめる　リングで あらゆる　ものを　はなれた　ばしょへ とばしてしまう　トラブルメーカー。
+721,Volcanion,Fire,Water,17,1950,Expulsa vapor y desaparece entre la densa niebla  Dicen que habita en montañas solitarias 
+722,Rowlet,Grass,Flying,3,15,けいかいしんが　つよい。　ひるは こうごうせいで　ちからを　ためて よるに　なったら　かつどうかいし。
+723,Dartrix,Grass,Flying,7,160,きどりやで　ひまが　あれば　つばさの ていれ。　うもうの　よごれが　きに なりすぎて　たたかえないことも。
+724,Decidueye,Grass,Ghost,16,366,つばさに　しこまれた　やばねを つがえてはなつ。　１００メートルさきの こいしも　つらぬく　せいど。
+725,Litten,Fire,,4,43,けづくろいで　おなかに　たまった ぬけげを　もやして　ひを　ふく。 けの　はきかたで　ほのおも　へんか。
+726,Torracat,Fire,,7,250,くびの　つけねに　ほのおの　スズが ある。　ほのおが　ふきだすとき リンリンと　たかいおとが　なる。
+727,Incineroar,Fire,Dark,18,830,강렬한 펀치와 킥을 가한 후 배꼽 부근에서 불꽃을 뿜어내 마무리한다 
+728,Popplio,Water,,4,75,がんばりやな　せいしつで　ゆうめい。 たいえきを　はなで　ふくらませた バルーンを　てきに　ぶつける。
+729,Brionne,Water,,6,175,ダンスが　とくいで　おどりながら つぎつぎに　みずの　バルーンを つくりだし　てきに　ぶつけるぞ。
+730,Primarina,Water,Fairy,18,440,みずのバルーンを　うたで　あやつる。 そのメロディは　なかまに　まなび だいだい　むれに　ひきつがれていく。
+731,Pikipek,Normal,Flying,3,12,びょうかん１６れんだ　で　きを　つつき あなを　ほる。　あけた　あなは　エサを しまう　ちょぞうこや　すに　つかう。
+732,Trumbeak,Normal,Flying,6,148,クチバシに　くった　きのみの　タネを ためこむ。　てきや　えものに であうと　いっきに　はっしゃする。
+733,Toucannon,Normal,Flying,11,260,クチバシを　はつねつさせ　たたかう。 そのおんどは　１００どを　ゆうに　こえ つつかれるだけで　おおやけど。
+734,Yungoos,Normal,,4,60,무엇이든 먹지만 신선하고 살아 있는 것을 좋아해서 먹이를 찾아 길을 누비고 다닌다 
+735,Gumshoos,Normal,,7,142,えものの　こんせきを　みつけると ねばりづよく　そのばに　はりこむが ひぐれには　うつらうつら　している。
+736,Grubbin,Bug,,4,44,じょうぶな　アゴで　じゅもくを けずり　じゅえきを　すする。 ふだんは　じめんの　なかで　くらす。
+737,Charjabug,Bug,Electric,5,105,たいないに　ちくでんきのうを　もつ。 キャンプの　ときなど　１ぴき　いると とても　ありがたい　ポケモンだ。
+738,Vikavolt,Bug,Electric,15,450,腹部有著發電器官， 會將能量集中在大顎上， 發出驚人的電擊。
+739,Crabrawler,Fighting,,6,70,ハサミで　じゃくてんを　ガードしつつ スキを　うかがい　パンチを　はなつ。 まけたほうは　アワを　ふいて　ダウン。
+740,Crabominable,Fighting,Ice,17,1800,トップを　めざすはずが　ゆきやまに まよいのぼり　さむさに　たえるうちに けが　はえてきて　しんかしていた。
+741,Oricorio-baile,Fire,Flying,6,34,はねを　うちあわせて　はっか。 かれいな　ステップを　ふみながら はげしい　ほのおを　あびせかけるぞ。
+742,Cutiefly,Bug,Fairy,1,2,はなのミツや　かふんが　エサ。 オーラを　かんじる　ちからを　もち さきそうな　はなを　みわけている。
+743,Ribombee,Bug,Fairy,2,5,かふんを　まるめ　だんごを　つくる。 しょくよう　から　せんとうよう　まで たくさんの　しゅるいが　あるよ。
+744,Rockruff,Rock,,5,92,よく　なつくので　しょしんしゃに おすすめのポケモンと　いわれるが そだつと　きしょうは　あらくなる。
+745,Lycanroc-midday,Rock,,8,250,すばやく　うごき　てきを　まどわす。 ツメや　キバの　ほか　タテガミの とがった　いわも　ぶきの　ひとつ。
+746,Wishiwashi-solo,Water,,2,3,ピンチになると　めが　うるみだし かがやく。　そのひかりに　むれる なかまと　てきに　たちむかうのだ。
+747,Mareanie,Poison,Water,4,80,あたまに　ある　どくトゲで　えものを ズブリ。よわったところを　１０ぽんの しょくしゅで　とらえ　とどめを　さす。
+748,Toxapex,Poison,Water,7,145,１２ほんのあしで　かいていを　はう。 ドヒドイデの　はったあとには サニーゴのカスが　ちらばっている。
+749,Mudbray,Ground,,10,1100,最喜歡玩泥巴。 如果沒有每天到泥巴裡玩的話， 會因為壓力累積而變得不聽話。
+750,Mudsdale,Ground,,25,9200,从嘴里吐出的泥凝固后， 即便是风雨也能经得住， 所以常被涂在以前家里的外墙上。
+751,Dewpider,Water,Bug,3,40,エサを　もとめ　ちじょうに　あがる。 すいほうを　かぶるのは　こきゅうと やわらかい　あたまを　まもるため。
+752,Araquanid,Water,Bug,18,820,とうぶの　すいほうで　ヘッドバット。 ちいさなポケモンで　あれば　そのまま すいほうに　とりこまれ　おぼれしぬ。
+753,Fomantis,Grass,,3,15,ひるまは　ひかりをあびて　ねむり よるに　なると　より　あんぜんな ねどこを　さがし　あるきだす。
+754,Lurantis,Grass,,9,185,あざやかな　たいしょくを　たもつには ひじょうに　てまが　かかるが　それを しゅみにする　こうずかも　いるのだ。
+755,Morelull,Grass,Fairy,2,15,てんめつしながら　ひかる　ほうしを あたりに　ばらまく。　そのひかりを みたものは　ふかいねむりに　おちる。
+756,Shiinotic,Grass,Fairy,10,115,よなかに　マシェードのすむ　もりに いくのは　きけん。　あやしいひかりに まどわされ　にどと　かえれなくなる。
+757,Salandit,Poison,Fire,6,48,たいえきを　もやし　どくガスを　たく。 ガスを　すった　てきが　フラフラに なったあと　おそいかかるのだ。
+758,Salazzle,Poison,Fire,12,222,なぜか　♀しか　みつかっていない。 ヤトウモリの　♂を　ひきつれて ぎゃくハーレムを　つくって　くらす。
+759,Stufful,Normal,Fighting,5,68,あいくるしい　みためだが　おこって ジタバタする　てあしに　ぶつかると プロレスラーでも　ふっとばされる。
+760,Bewear,Normal,Fighting,21,1350,あっとうてきな　きんりょくを　もつ ひじょうに　きけんな　ポケモン。 せいそくちは　きほん　たちいりきんし。
+761,Bounsweet,Grass,,3,32,おいしそうな　かおりが　からだから もれだしている。　においに　さそわれた ドデカバシに　まるのみに　される。
+762,Steenee,Grass,,7,82,みを　まもるため　ヘタが　はったつ。 かなりの　かたさで　とりポケモンに つつかれても　ぜんぜん　へいきだ。
+763,Tsareena,Grass,,12,214,あしを　いかした　けりが　とくい。 たおした　あいてを　あしげに　して たかわらいで　しょうりを　アピール。
+764,Comfey,Fairy,,1,3,えいようまんてんの　ツルに　はなを くっつける。　はなは　かっせいかし かぐわしい　アロマが　ただよいだす。
+765,Oranguru,Normal,Psychic,15,760,ひじょうに　かしこいことで　しられる。 みじゅくな　トレーナーは　みくだす ベテランむけの　ポケモンだぞ。
+766,Passimian,Fighting,,20,828,２０ぴきぜんごの　グループを　つくる。 そのけっそくは　ひじょうに　かたく ぜったい　なかまを　みすてない。
+767,Wimpod,Bug,Water,5,120,おくびょうで　たくさんの　あしを ばたつかせ　ひっしに　にげまわる。 にげたあとは　ピカピカ　きれい。
+768,Golisopod,Bug,Water,20,1080,するどく　きょだいな　ツメで いっせん。　くうきや　かいすいさえ いっとうりょうだんの　うでまえ。
+769,Sandygast,Ghost,Ground,5,700,いきだおれたものの　おんねんが こどもが　つくった　すなやまに とりつき　たんじょう　したのだ。
+770,Palossand,Ghost,Ground,13,2500,ひとを　あやつり　すなのやまを すなのしろまで　しんか　させた。 のろいの　ちからも　あがっている。
+771,Pyukumuku,Water,,3,12,It’s covered in a slime that keeps its skin moist  allowing it to stay on land for days without drying up 
+772,Type-null,Normal,,19,1205,おもい　せいぎょマスクを　つけており ほんらいの　のうりょくを　だせない。 とくべつな　ちからを　ひめている。
+773,Silvally,Normal,,23,1005,パートナーとの　しんらいで　かくせい。 じざいに　タイプを　チェンジする のうりょくを　はっきし　たたかう。
+774,Minior-red-meteor,Rock,Flying,3,400,もともと　オゾンそうに　すんでおり からだの　カラが　おもくなると ちじょうに　むかって　おちてくる。
+775,Komala,Normal,,4,199,ねたまま　うまれ　ねたまま　しぬ。 すべての　こうどうは　みている ゆめに　よる　ねぞう　らしい。
+776,Turtonator,Fire,Dragon,20,2120,せなかの　こうらは　ばくはつぶつ。 うっかり　なぐれば　だいばくはつ。 おなかの　あなが　じゃくてん。
+777,Togedemaru,Electric,Steel,3,33,せなかの　ハリの　けは　ふだんは ねている。　こうふんすると　さかだち おそってくる　てきを　つきさすのだ。
+778,Mimikyu-disguised,Ghost,Fairy,2,7,しょうたいふめい。　ボロきれの なかみを　みた　とある　がくしゃは きょうふの　あまり　ショックしした。
+779,Bruxish,Water,Psychic,9,190,あたまの　とっきから　サイコパワーを はなつとき　とても　みみざわりな はぎしりの　おとが　あたりに　ひびく。
+780,Drampa,Normal,Dragon,30,1850,こころやさしい　せいしつ。　だが いちど　いかりに　かられると　はげしい いぶきで　あたりを　はかい　しつくす。
+781,Dhelmise,Ghost,Grass,39,2100,でかい　イカリを　ブンブン　ふりまわし ホエルオーさえ　いちげきで　ＫＯ。 みどりの　モズクが　ほんたいだ。
+782,Jangmo-o,Dragon,,6,297,ウロコを　たたき　きもちを　つたえる。 ジャラコの　すむ　こうざんでは きんぞくおんが　こだまする。
+783,Hakamo-o,Dragon,Fighting,12,470,おたけびと　ともに　えものに とびかかる。　ウロコの　パンチは あいてを　ズタズタに　ひきさくぞ。
+784,Kommo-o,Dragon,Fighting,16,782,遇到敵人便會敲響尾部的 鱗片來威嚇對方。只會與 不畏懼自己的強者戰鬥。
+785,Tapu-koko,Electric,Fairy,18,205,こうきしんおうせいな　メレメレの まもりがみ。　かみなりぐもを　よび いかずちを　からだに　ためこむ。
+786,Tapu-lele,Psychic,Fairy,12,186,むじゃきで　ざんこくな　アーカラの まもりがみ。　はなの　かぐわしい かおりが　エネルギーの　みなもと。
+787,Tapu-bulu,Grass,Fairy,19,455,たいぼくを　ひきぬき　ブンブン ふりまわす。　くさきを　しげらせて そのエネルギーを　きゅうしゅうする。
+788,Tapu-fini,Water,Fairy,13,212,ふかいきりで　てきを　まどわせ じめつさせる　おそろしさを　もつ。 かいりゅうが　エネルギーの　みなもと。
+789,Cosmog,Psychic,,2,1,はかない　ガスじょうの　からだ。 たいきの　チリを　あつめながら ゆっくりと　せいちょうしていく。
+790,Cosmoem,Psychic,,1,9999,しんだように　まったく　うごかないが ふれると　ほのかに　あたたかい。 おおむかしは　ほしのマユと　よばれた。
+791,Solgaleo,Psychic,Steel,34,2300,べつせかいに　すむと　いわれる。 ぜんしんから　はげしいひかりを　はなち やみよも　まひるのように　てらすのだ。
+792,Lunala,Psychic,Ghost,40,1200,Si dice che viva in un altro mondo  Assorbe la luce facendo calare le tenebre anche sulle giornate più luminose 
+793,Nihilego,Rock,Poison,12,555,なぞに　つつまれた　ＵＢの　いっしゅ。 まちゆく　ひとが　きせいされ あばれだす　すがたが　もくげきされた。
+794,Buzzwole,Bug,Fighting,24,3336,べつせかいから　あらわれた　ＵＢ。 みずからの　からだを　みせつけてくるが じまんなのか　いかくなのか　ふめい。
+795,Pheromosa,Bug,Fighting,18,250,きけんなＵＢの　いっしゅ。　すさまじい そくどで　だいちを　しっそうする すがたが　もくげき　されている。
+796,Xurkitree,Electric,,38,1000,ぜんしんから　すさまじい　でんげきを ほとばしらせる　こうけいを　もくげき。 なぞの　せいぶつ　ＵＢの　いっしゅだ。
+797,Celesteela,Steel,Flying,92,9999,ウルトラホールから　あらわれた。 こうそくで　そらを　とぶ　すがたが もくげき　された　ウルトラビースト。
+798,Kartana,Grass,Steel,3,1,ウルトラホールから　あらわれた　ＵＢ。 みずから　てきを　おそわないようだが するどい　ぜんしんは　きょうきだ。
+799,Guzzlord,Dark,Dragon,55,8880,やまを　くらい　けずり　ビルを のみこむ　すがたが　ほうこく　された。 ウルトラビーストの　いっしゅ。
+800,Necrozma,Psychic,,24,2300,光似乎是牠的能量來源。 毫無節制地不停發射雷射， 性格非常凶暴。
+801,Magearna,Steel,Fairy,10,805,５００ねんいじょうまえに　つくられた じんぞうポケモン。　ひとの　ことばを りかいするが　しゃべれない。
+802,Marshadow,Fighting,Ghost,7,222,かげのなかに　ひそむことが　でき ひとまえに　すがたを　みせないので そのそんざいは　まぼろし　だった。
+803,Poipole,Poison,,6,18,いせかいに　おいては　たびだちの パートナーに　えらばれるほど したしまれている　ウルトラビースト。
+804,Naganadel,Poison,Dragon,36,1500,たいないに　すうひゃくリットルの どくえきを　ためている。　ＵＢと よばれる　せいぶつの　いっしゅ。
+805,Stakataka,Rock,Steel,55,8200,ウルトラホールから　しゅつげんした。 ふくすうの　せいめいが　つみあがり １ぴきを　けいせいしている　ようだ。
+806,Blacephalon,Fire,Ghost,18,130,クネクネうごいて　ひとに　ちかづくと とつぜん　あたまを　ばくはつさせた。 ウルトラビーストの　いっしゅらしい。
+807,Zeraora,Electric,,15,445,りょうてあしの　ツメを　たいでんさせ あいてを　やつざき。　かわされても とびちる　でんげきで　かんでんさせる。
+808,Meltan,Steel,,2,80,とろりと　とけた　はがねの　からだ。 ちちゅうの　てつぶんや　きんぞくを とかして　きゅうしゅうする。
+809,Melmetal,Steel,,25,8000,てつを　うみだす　ちからを　もつと あがめられていた。　３０００ねんの ときを　へて　なぜか　よみがえった。
+810,Grookey,Grass,,3,50,とくべつな　スティックで　リズムを きざむと　くさばなを　げんきにする パワーが　おんぱになって　ひろがる。
+811,Thwackey,Grass,,7,140,２ほんの　スティックで　はげしい ビートを　きざめる　バチンキーほど なかまたちの　そんけいを　あつめる。
+812,Rillaboom,Grass,,21,900,とくべつな　きりかぶの　パワーを ドラミングで　コントロール。 ねっこを　あやつって　たたかう。
+813,Scorbunny,Fire,,3,45,はしりまわって　たいおんを　あげると ほのおエネルギーが　からだを　めぐり ほんらいの　ちからを　はっきできる。
+814,Raboot,Fire,,6,90,ふかふかの　たいもうで　さむさに つよくなり　さらに　こうおんの ほのおわざを　だせるようになった。
+815,Cinderace,Fire,,14,330,こいしを　リフティングして　ほのおの サッカーボールを　つくる。　するどい シュートで　あいてを　もやす。
+816,Sobble,Water,,3,40,おびえると　タマネギ１００コぶんの さいるいせいぶんを　もつ　なみだを ながして　もらいなき　させる。
+817,Drizzile,Water,,7,115,ての　ひらから　でる　すいぶんを まるめて　つくった　みずの　たまを つかい　ずのうせんを　くりひろげる。
+818,Inteleon,Water,,19,452,たさいな　きのうを　かくしもつ。 ゆびから　みずを　ふんしゃして せなかの　ひまくで　かぜに　のる。
+819,Skwovet,Normal,,3,25,ガラルの　いたるところに　いる。 さゆうの　ほっぺに　きのみを たくわえていないと　ふあん。
+820,Greedent,Normal,,6,60,Sus incisivos  de fuerza y dureza extraordinarias  le permiten mordisquear incluso las bayas más duras  Es un Pokémon muy común en Galar 
+821,Rookidee,Flying,,2,18,どんな　きょうてきにも　いどみかかる ゆうかんな　せいしつ。　かえりうちに あいながらも　きたえられていく。
+822,Corvisquire,Flying,,8,160,あしで　こいしを　つかんで　なげたり ロープを　てきに　まきつけるなど どうぐを　あつかう　ちえを　もつ。
+823,Corviknight,Flying,Steel,22,750,ガラルちほうの　そらでは　てきなし。 くろびかりする　はがねの　すがたは あいてを　いあつし　おそれさせる。
+824,Blipbug,Bug,,4,80,いつも　せっせと　じょうほうを あつめているので　かしこい。 ただし　ちからは　いまいちだ。
+825,Dottler,Bug,Psychic,4,195,ほぼ　うごかないが　いきている。 のまずくわずで　からに　こもるうち ちょうのうりょくに　めざめたらしい。
+826,Orbeetle,Bug,Psychic,4,408,かしこい　ポケモンとして　ゆうめい。 おおきな　のうみそは　きょうりょくな サイコパワーを　もつ　あかし。
+827,Nickit,Dark,,6,89,ほかの　ポケモンが　みつけた　エサを かすめて　くらしている。　ふかふかの にくきゅうは　あしおとを　たてない。
+828,Thievul,Dark,,12,199,ねらった　エモノは　こっそり マーキング。　においを　たどって ゆだん　したころ　ぬすみに　くるぞ。
+829,Gossifleur,Grass,,4,22,いっぽんあしを　じめんに　さして ひのひかりを　たっぷり　あびると はなびらが　あざやかに　いろづく。
+830,Eldegoss,Grass,,5,25,わたげの　タネは　えいようまんてん。 かぜに　のせて　とばして　くさきや ポケモンたちを　げんきにさせる。
+831,Wooloo,Normal,,6,60,パーマの　かかった　たいもうは たかい　クッションせいが　ある。 がけから　おちても　へっちゃら。
+832,Dubwool,Normal,,13,430,だんりょくの　ある　けで　おった カーペットは　トランポリンみたいで のれば　ピョンピョン　はねるのだ。
+833,Chewtle,Water,,3,85,めのまえの　ものに　すぐに　かみつく しゅうせい。　はえかけの　まえばが かゆいので　かみついてしまうらしい。
+834,Drednaw,Water,Rock,10,1155,きょうぼうな　せいしつ。　てつぼうを かみちぎる　ほどの　アゴの　ちからで えものに　ばくりと　かみつく。
+835,Yamper,Electric,,3,135,はしる　ときに　しっぽの　ねもとから でんきを　うみだす。　ガラルでは ぼくようけん　として　にんき。
+836,Boltund,Electric,,10,340,でんきを　つくって　あしに　おくり はしりを　アシスト。　みっかみばん やすまず　はしれるのだ。
+837,Rolycoly,Rock,,3,120,およそ４００ねんまえに　たんこうで みつかった。　からだの　ほとんどが せきたんと　おなじ　せいぶん。
+838,Carkol,Rock,Fire,11,780,たいないで　せきたんを　つくりだす。 むかしの　ガラルでは　おとした せきたんを　せいかつに　りようした。
+839,Coalossal,Rock,Fire,28,3105,平时性情温和，但在人类 破坏矿山时会大发雷霆， 用１５００度的大火将他们烧尽。
+840,Applin,Grass,Dragon,2,5,いっしょう　りんごの　なかで　くらし てんてきの　とりポケモンに　であうと りんごの　ふりをして　みをまもる。
+841,Flapple,Grass,Dragon,3,10,すっぱい　りんごを　たべて　しんか。 やけどする　ほど　きょうさんせいの えきたいを　ほほぶくろに　ためる。
+842,Appletun,Grass,Dragon,4,130,あまい　りんごを　たべて　しんか。 からだから　あまい　においを　だして エサの　むしポケモンを　ひきよせる。
+843,Silicobra,Ground,,22,76,あなを　ほりながら　たべた　すなを くびの　ふくろに　ためている。 ８キロもの　すなが　はいるのだ。
+844,Sandaconda,Ground,,38,655,ぜんしんを　ちぢめ　１００キロの すなを　はなの　あなから　ふんしゃ。 すなが　ないと　よわきに　なるぞ。
+845,Cramorant,Flying,Water,8,180,あいてを　いちげきで　うちまかすほど パワフルだが　わすれっぽいので たたかっている　あいてを　わすれる。
+846,Arrokuda,Water,,5,10,するどく　とがった　あごが　じまん。 すこしでも　うごくものを　みつけると いっちょくせんに　とつげきする。
+847,Barraskewda,Water,,13,300,やりの　ように　とがった　あごは はがねの　かたさ。　その　みは おどろくほど　おいしい　らしい。
+848,Toxel,Electric,Poison,4,110,たいないの　どくぶくろに　ためた どくそを　ひふから　ぶんぴつ。 さわると　ピリピリと　しびれる。
+849,Toxtricity-amped,Electric,Poison,16,400,むねの　とっきを　かきむしり でんきを　おこすとき　あたりに ギターのような　おとが　ひびく。
+850,Sizzlipede,Fire,Bug,7,10,からだに　ためた　かねんガスで はつねつ。　とくに　おなかの きいろい　ぶぶんが　あついのだ。
+851,Centiskorch,Fire,Bug,30,1200,はつねつじの　たいおんは　およそ ８００ど。　からだを　ムチのように しならせて　とびかかってくるぞ。
+852,Clobbopus,Fighting,,6,40,えさを　もとめ　ちじょうに　あがる。 こうきしんおうせいで　めにしたものは とりあえず　しょくしゅで　なぐる。
+853,Grapploct,Fighting,,16,390,ぜんしんが　きんにくの　かたまり。 しょくしゅを　つかって　くりだす しめわざの　いりょくは　すさまじい。
+854,Sinistea,Ghost,,1,2,のこされ　ひえきった　こうちゃに さみしがりやな　たましいが　やどり ポケモンに　なったと　いわれている。
+855,Polteageist,Ghost,,2,4,アンティークの　ポットに　すみつく。 ほとんどが　がんさくだが　ごくまれに しんさくが　みつかる　ことも。
+856,Hatenna,Psychic,,4,34,あたまの　とっきで　せいぶつの きもちを　かんじとる。　おだやかな ものにしか　こころを　ひらかない。
+857,Hattrem,Psychic,,6,48,つよい　かんじょうを　もつ　ものは それが　だれであれ　だまらせる。 そのしゅだんは　じつに　らんぼう。
+858,Hatterene,Psychic,Fairy,21,51,ずつうになるほどの　サイコパワーを しゅういに　はなって　ほかの せいぶつを　とおざけているのだ。
+859,Impidimp,Dark,Fairy,4,55,ひとや　ポケモンが　いやがる　ときに はっする　マイナスエネルギーを はなから　すいこみ　げんきになる。
+860,Morgrem,Dark,Fairy,8,125,どげざして　あやまる　ふりをして やりのように　とがった　うしろがみで つきさしてくる　せんぽうを　つかう。
+861,Grimmsnarl,Dark,Fairy,15,610,かみのけを　ぜんしんに　まきつけると きんりょくが　アップ。　カイリキーを ねじふせる　パワーを　はっきする。
+862,Obstagoon,Dark,Normal,16,460,すさまじい　せいりょうを　もつ。 シャウトとともに　いかくするさまは ブロッキングと　よばれている。
+863,Perrserker,Steel,,8,280,あたまの　たいもうが　こうしつかして てつの　ヘルメットのように　なった。 とても　こうせんてきな　せいしつ。
+864,Cursola,Ghost,,10,4,れいりょくが　たかまり　カラから ときはなたれた。　れいたいで かくの　たましいを　まもっている。
+865,Sirfetchd,Fighting,,8,1170,れきせんを　いきぬいた　ものが このすがたに　しんかする。　ネギが かれるとき　せんじょうを　さる。
+866,Mr-rime,Ice,Psychic,15,582,タップダンスの　たつじん。 こおりで　できた　ステッキを　ふり かろやかな　ステップを　ひろうする。
+867,Runerigus,Ground,Ghost,16,666,つよい　のろいを　こめて　かかれた こだいの　えが　デスマスの たましいを　とりこみ　うごきだした。
+868,Milcery,Fairy,,2,3,クリームで　できた　からだを　もつ。 くうきちゅうの　あまい　かおりの せいぶんが　あつまって　うまれた。
+869,Alcremie,Fairy,,3,5,しんらいする　トレーナーには クリームで　デコレーションした きのみを　ふるまって　くれるのだ。
+870,Falinks,Fighting,,30,620,ヘイチョーと　よばれる　１ぴきと ヘイと　よばれる　５ひきで　ひとつ。 ヘイチョーの　めいれいは　ぜったい。
+871,Pincurchin,Electric,,3,10,トゲの　さきから　でんきを　はなつ。 するどい　はで　いわに　ついた かいそうを　こそいで　たべる。
+872,Snom,Ice,Bug,3,38,れいきの　まざった　いとを　はく。 いとで　からだを　えだに　まきつけ つららの　ふりをして　ねむるのだ。
+873,Frosmoth,Ice,Bug,13,420,はねの　おんどは　マイナス１８０ど。 れいきを　こめた　りんぷんを　ゆきの ように　ふりまき　のやまを　とぶ。
+874,Stonjourner,Rock,,25,5200,だいそうげんの　なかで　たたずみ ひの　かたむきを　ながめて　くらす。 ダイナミックな　けりわざが　とくい。
+875,Eiscue-ice,Ice,,14,890,とても　さむい　ばしょから　ながれ ながされ　やってきた。　こおりで かおを　つねに　ひやして　いるのだ。
+876,Indeedee-male,Psychic,Normal,9,280,あたまの　ツノで　あいての　きもちを かんじとる。　オスは　じゅうしゃの ように　あるじのそばで　せわをやく。
+877,Morpeko-full-belly,Electric,Dark,3,30,いつも　おなかを　すかせている。 ポケットの　ような　ふくろに　いれた タネを　たべて　でんきを　つくる。
+878,Cufant,Steel,,12,1000,５トンの　にもつを　もっても へいきな　ちからもち　ポケモン。 はなを　つかって　つちを　ほる。
+879,Copperajah,Steel,,30,6500,みどりのひふは　みずにも　つよい。 むかし　ほかのとちから　やってきて ひとと　いっしょに　はたらいた。
+880,Dracozolt,Electric,Dragon,18,1900,こだいでは　たくましい　かはんしんで むてきだったが　エサの　しょくぶつを たべつくしてしまい　ぜつめつした。
+881,Arctozolt,Electric,Ice,23,1500,こおりづけの　じょうはんしんが ふるえると　でんきが　つくられる。 あるくことが　ひじょうに　にがて。
+882,Dracovish,Water,Dragon,23,2150,ずばぬけた　きゃくりょくと　アゴの ちからで　こだいでは　むてきだったが えものを　とりつくし　ぜつめつした。
+883,Arctovish,Water,Ice,20,1750,しゅういを　こおりつかせて　えものを つかまえるが　くちが　あたまの うえに　あるので　たべづらい。
+884,Duraludon,Steel,Dragon,18,400,みがきあげた　きんぞくの　ような からだは　かるいうえに　かたいが さびやすいのが　けってんなのだ。
+885,Dreepy,Dragon,Ghost,5,20,こだいの　うみで　くらしていた。 ゴーストポケモンとして　よみがえり かつての　すみかを　さまよっている。
+886,Drakloak,Dragon,Ghost,14,110,ひこう　そくどは　じそく２００キロ。 ドラメシヤと　いっしょに　たたかい ぶじに　しんかするまで　せわをする。
+887,Dragapult,Dragon,Ghost,30,500,ツノの　あなに　ドラメシヤを　いれて くらす。　たたかいになると　マッハの スピードで　ドラメシヤを　とばす。
+888,Zacian,Fairy,,28,1100,でんせつの　えいゆうと　よばれる ポケモン。　きんぞくを　とりこみ ぶぐに　へんかさせ　たたかう。
+889,Zamazenta,Fighting,,29,2100,ひとのおうと　ちからを　あわせ ガラルを　すくった　ポケモン。 きんぞくを　とりこみ　たたかう。
+890,Eternatus,Poison,Dragon,200,9500,むねの　コアが　ガラルちほうの だいちから　わきだす　エネルギーを きゅうしゅうして　かつどうしている。
+891,Kubfu,Fighting,,6,120,きびしい　たんれんを　つみ　わざを みがく。　たいとくした　わざによって しんかしたときに　すがたが　かわる。
+892,Urshifu-single-strike,Fighting,Dark,19,1050,いちげきひっさつが　しんじょう。 あいての　ふところに　とびこみ きたえられた　こぶしを　たたきこむ。
+893,Zarude,Dark,Grass,18,700,むれを　つくり　みつりんで　くらす。 とても　こうげきてきで　もりにすむ ポケモンたちから　おそれられている。
+894,Regieleki,Electric,,12,1450,でんきエネルギーの　かたまり。 からだの　リングを　はずすと　ひめた ちからが　ときはなたれるらしい。
+895,Regidrago,Dragon,,21,2000,うでの　かたちは　こだいの　ドラゴン ポケモンの　あたまという　がくせつも あるが　しょうめいされていない。
+896,Glastrier,Ice,,22,8000,ひづめから　きょうりょくな　れいきを はなつ。　ほしいものは　なんでも ちからずくで　うばう　あばれんぼう。
+897,Spectrier,Ghost,,20,445,しかく　いがいの　ごかんを　つかい ようすを　さぐる。　けられたものは たましいを　ぬかれてしまうという。
+898,Calyrex,Psychic,Grass,11,77,いやしと　めぐみの　ちからを　もつ じあいに　みちた　ポケモン。　はるか むかし　ガラルに　くんりんしていた。
+899,Wyrdeer,Normal,Psychic,18,951,The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers  The fur shed from its beard retains heat well and is a highly useful material for winter clothing 
+900,Kleavor,Bug,Rock,18,890,A violent creature that fells towering trees with its crude axes and shields itself with hard stone  If one should chance upon this Pokémon in the wilds  one's only recourse is to flee 
+901,Ursaluna,Ground,Normal,24,2900,I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will 
+902,Basculegion-male,Water,Ghost,30,1100,Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream  No other species throughout all Hisui's rivers is Basculegion's equal 
+903,Sneasler,Fighting,Poison,13,430,Because of Sneasler's virulent poison and daunting physical prowess  no other species could hope to best it on the frozen highlands  Preferring solitude  this species does not form packs 
+904,Overqwil,Dark,Poison,25,605,Its lancelike spikes and savage temperament have earned it the nickname ”sea fiend ” It slurps up poison to nourish itself 
+905,Enamorus-incarnate,Fairy,Flying,16,480,When it flies to this land from across the sea  the bitter winter comes to an end  According to legend  this Pokémon's love gives rise to the budding of fresh life across Hisui 
+906,Sprigatito,Grass,,4,41,Its fluffy fur is similar in composition to plants  This Pokémon frequently washes its face to keep it from drying out 
+907,Floragato,Grass,,9,122,Floragato deftly wields the vine hidden beneath its long fur  slamming the hard flower bud against its opponents 
+908,Meowscarada,Grass,Dark,15,312,This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower  creating the illusion that the flower is floating 
+909,Fuecoco,Fire,,4,98,It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy 
+910,Crocalor,Fire,,10,307,The combination of Crocalor’s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon’s head 
+911,Skeledirge,Fire,Ghost,16,3265,The fiery bird changes shape when Skeledirge sings  Rumor has it that the bird was born when the fireball on Skeledirge’s head gained a soul 
+912,Quaxly,Water,,5,61,This Pokémon migrated to Paldea from distant lands long ago  The gel secreted by its feathers repels water and grime "
+913,Quaxwell,Water,,12,215,These Pokémon constantly run through shallow waters to train their legs  then compete with each other to see which of them kicks most gracefully 
+914,Quaquaval,Water,Fighting,18,619,A single kick from a Quaquaval can send a truck rolling  This Pokémon uses its powerful legs to perform striking dances from far-off lands 
+915,Lechonk,Normal,,5,102,It searches for food all day  It possesses a keen sense of smell but doesn’t use it for anything other than foraging 
+916,Oinkologne-male,Normal,,10,1200,Oinkologne is proud of its fine  glossy skin  It emits a concentrated scent from the tip of its tail 
+917,Tarountula,Bug,,3,40,The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther  this Pokémon’s natural enemy 
+918,Spidops,Bug,,10,165,It clings to branches and ceilings using its threads and moves without a sound  It takes out its prey before the prey even notices it 
+919,Nymble,Bug,,2,10,It has its third set of legs folded up  When it’s in a tough spot  this Pokémon jumps over 30 feet using the strength of its legs 
+920,Lokix,Bug,Dark,10,175,When it decides to fight all out  it stands on its previously folded legs to enter Showdown Mode  It neutralizes its enemies in short order 
+921,Pawmi,Electric,,3,25,It has underdeveloped electric sacs on its cheeks  These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws 
+922,Pawmo,Electric,Fighting,4,65,When its group is attacked  Pawmo is the first to leap into battle  defeating enemies with a fighting technique that utilizes electric shocks 
+923,Pawmot,Electric,Fighting,9,410,This Pokémon normally is slow to react  but once it enters battle  it will strike down its enemies with lightning-fast movements 
+924,Tandemaus,Normal,,3,18,Exhibiting great teamwork  they use their incisors to cut pieces out of any material that might be useful for a nest  then make off with them 
+925,Maushold-family-of-four,Normal,,3,23,The two little ones just appeared one day  The group might be a family of related Pokémon  but nobody knows for sure 
+926,Fidough,Fairy,,3,109,This Pokémon is smooth and moist to the touch  Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity 
+927,Dachsbun,Fairy,,5,149,The pleasant aroma that emanates from this Pokémon’s body helps wheat grow  so Dachsbun has been treasured by farming villages 
+928,Smoliv,Grass,Normal,3,65,It protects itself from enemies by emitting oil from the fruit on its head  This oil is bitter and astringent enough to make someone flinch 
+929,Dolliv,Grass,Normal,6,119,Dolliv shares its tasty  fresh-scented oil with others  This species has coexisted with humans since times long gone 
+930,Arboliva,Grass,Normal,14,482,This calm Pokémon is very compassionate  It will share its delicious  nutrient-rich oil with weakened Pokémon 
+931,Squawkabilly-green-plumage,Normal,Flying,6,24,These Pokémon prefer to live in cities  They form flocks based on the color of their feathers  and they fight over territory 
+932,Nacli,Rock,,4,160,It was born in a layer of rock salt deep under the earth  This species was particularly treasured in the old days  as they would share precious salt 
+933,Naclstack,Rock,,6,1050,This Pokémon dry cures its prey by spraying salt over them  The curing process steals away the water in the prey’s body 
+934,Garganacl,Rock,,23,2400,Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt  Even severe wounds will promptly heal afterward 
+935,Charcadet,Fire,,6,105,Burnt charcoal came to life and became a Pokémon  Possessing a fiery fighting spirit  Charcadet will battle even tough opponents 
+936,Armarouge,Fire,Psychic,15,850,Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior  This Pokémon is incredibly loyal 
+937,Ceruledge,Fire,Ghost,16,620,The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal 
+938,Tadbulb,Electric,,3,4,Tadbulb shakes its tail to generate electricity  If it senses danger  it will make its head blink on and off to alert its allies 
+939,Bellibolt,Electric,,12,1130,When this Pokémon expands and contracts its wobbly body  the belly-button dynamo in its stomach produces a huge amount of electricity 
+940,Wattrel,Electric,Flying,4,36,When its wings catch the wind  the bones within produce electricity  This Pokémon dives into the ocean  catching prey by electrocuting them 
+941,Kilowattrel,Electric,Flying,14,386,Kilowattrel inflates its throat sac to amplify its electricity  By riding the wind  this Pokémon can fly over 430 miles in a day 
+942,Maschiff,Dark,,5,160,It always scowls in an attempt to make opponents take it seriously  but even crying children will burst into laughter when they see Maschiff’s face 
+943,Mabosstiff,Dark,,11,610,This Pokémon can store energy in its large dewlap  Mabosstiff unleashes this energy all at once to blow away enemies 
+944,Shroodle,Poison,Normal,2,7,Though usually a mellow Pokémon  it will sink its sharp  poison-soaked front teeth into any that anger it  causing paralysis in the object of its ire 
+945,Grafaiai,Poison,Normal,7,272,The color of the poisonous saliva depends on what the Pokémon eats  Grafaiai covers its fingers in its saliva and draws patterns on trees in forests 
+946,Bramblin,Grass,Ghost,6,6,A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon 
+947,Brambleghast,Grass,Ghost,12,60,It will open the branches of its head to envelop its prey  Once it absorbs all the life energy it needs  it expels the prey and discards it 
+948,Toedscool,Ground,Grass,9,330,Toedscool lives in muggy forests  The flaps that fall from its body are chewy and very delicious 
+949,Toedscruel,Ground,Grass,19,580,These Pokémon gather into groups and form colonies deep within forests  They absolutely hate it when strangers approach 
+950,Klawf,Rock,,13,790,Klawf hangs upside-down from cliffs  waiting for prey  But Klawf can’t remain in this position for long because its blood rushes to its head 
+951,Capsakid,Grass,,3,30,The more sunlight this Pokémon bathes in  the more spicy chemicals are produced by its body  and thus the spicier its moves become 
+952,Scovillain,Grass,Fire,9,150,The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame 
+953,Rellor,Bug,,2,10,This Pokémon creates a mud ball by mixing sand and dirt with psychic energy  It treasures its mud ball more than its own life 
+954,Rabsca,Bug,Psychic,3,35,The body that supports the ball barely moves  Therefore  it is thought that the true body of this Pokémon is actually inside the ball 
+955,Flittle,Psychic,,2,15,Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly 
+956,Espathra,Psychic,,19,900,It immobilizes opponents by bathing them in psychic power from its large eyes  Despite its appearance  it has a vicious temperament 
+957,Tinkatink,Fairy,Steel,4,89,It swings its handmade hammer around to protect itself  but the hammer is often stolen by Pokémon that eat metal 
+958,Tinkatuff,Fairy,Steel,7,591,This Pokémon will attack groups of Pawniard and Bisharp  gathering metal from them in order to create a large and sturdy hammer 
+959,Tinkaton,Fairy,Steel,7,1128,This intelligent Pokémon has a very daring disposition  It knocks rocks into the sky with its hammer  aiming for flying Corviknight 
+960,Wiglett,Water,,12,18,This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand 
+961,Wugtrio,Water,,12,54,It has a vicious temperament  contrary to what its appearance may suggest  It wraps its long bodies around prey  then drags the prey into its den 
+962,Bombirdier,Flying,Dark,15,429,It gathers things up in an apron made from shed feathers added to the Pokémon’s chest feathers  then drops those things from high places for fun 
+963,Finizen,Water,,13,602,It likes playing with others of its kind using the water ring on its tail  It uses ultrasonic waves to sense the emotions of other living creatures 
+964,Palafin-zero,Water,,13,602,This Pokémon changes its appearance if it hears its allies calling for help  Palafin will never show anybody its moment of transformation 
+965,Varoom,Steel,Poison,10,350,It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory 
+966,Revavroom,Steel,Poison,18,1200,It creates a gas out of poison and minerals from rocks  It then detonates the gas in its cylinders—now numbering eight—to generate energy 
+967,Cyclizar,Dragon,Normal,16,630,Apparently Cyclizar has been allowing people to ride on its back since ancient times  Depictions of this have been found in 10 000-year-old murals 
+968,Orthworm,Steel,,25,3100,When attacked  this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches 
+969,Glimmet,Rock,Poison,7,80,It absorbs nutrients from cave walls  The petals it wears are made of crystallized poison 
+970,Glimmora,Rock,Poison,15,450,When this Pokémon detects danger  it will open up its crystalline petals and fire beams from its conical body 
+971,Greavard,Ghost,,6,350,It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon 
+972,Houndstone,Ghost,,20,150,Houndstone spends most of its time sleeping in graveyards  Among all the dog Pokémon  this one is most loyal to its master 
+973,Flamigo,Flying,Fighting,16,370,This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak 
+974,Cetoddle,Ice,,12,450,This species left the ocean and began living on land a very long time ago  It seems to be closely related to Wailmer 
+975,Cetitan,Ice,,45,7000,This Pokémon wanders around snowy  icy areas  It protects its body with powerful muscles and a thick layer of fat under its skin 
+976,Veluza,Water,Psychic,25,900,When Veluza discards unnecessary flesh  its mind becomes honed and its psychic power increases  The spare flesh has a mild but delicious flavor 
+977,Dondozo,Water,,120,2200,This Pokémon is a glutton  but it’s bad at getting food  It teams up with a Tatsugiri to catch prey 
+978,Tatsugiri-curly,Dragon,Water,3,80,This is a small dragon Pokémon  It lives inside the mouth of Dondozo to protect itself from enemies on the outside 
+979,Annihilape,Fighting,Ghost,12,560,When its anger rose beyond a critical point  this Pokémon gained power that is unfettered by the limits of its physical body 
+980,Clodsire,Poison,Ground,18,2230,When attacked  this Pokémon will retaliate by sticking thick spines out from its body  It’s a risky move that puts everything on the line 
+981,Farigiraf,Normal,Psychic,32,1600,Now that the brain waves from the head and tail are synced up  the psychic power of this Pokémon is 10 times stronger than Girafarig’s 
+982,Dudunsparce-two-segment,Normal,,36,392,This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground  The nest can reach lengths of over six miles 
+983,Kingambit,Dark,Steel,20,1200,Only a Bisharp that stands above all others in its vast army can evolve into Kingambit 
+984,Great-tusk,Ground,Fighting,22,3200,Sightings of this Pokémon have occurred in recent years  The name Great Tusk was taken from a creature listed in a certain book 
+985,Scream-tail,Fairy,Psychic,12,80,There has been only one reported sighting of this Pokémon  It resembles a mysterious creature depicted in an old expedition journal 
+986,Brute-bonnet,Grass,Dark,12,210,It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon 
+987,Flutter-mane,Ghost,Fairy,14,40,This Pokémon has characteristics similar to those of Flutter Mane  a creature mentioned in a certain book 
+988,Slither-wing,Bug,Fighting,32,920,This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing 
+989,Sandy-shocks,Electric,Ground,23,600,No records exist of this Pokémon being caught  Data is lacking  but the Pokémon’s traits match up with a creature shown in an expedition journal 
+990,Iron-treads,Ground,Steel,9,2400,This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens 
+991,Iron-bundle,Ice,Water,6,110,Its shape is similar to a robot featured in a paranormal magazine article  The robot was said to have been created by an ancient civilization 
+992,Iron-hands,Fighting,Electric,18,3807,It is very similar to a cyborg covered exclusively by a paranormal magazine  The cyborg was said to be the modified form of a certain athlete 
+993,Iron-jugulis,Dark,Flying,13,1110,It resembles a certain Pokémon introduced in a paranormal magazine  described as the offspring of a Hydreigon that fell in love with a robot 
+994,Iron-moth,Fire,Poison,12,360,This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity 
+995,Iron-thorns,Rock,Electric,16,3030,It has some similarities to a Pokémon introduced in a dubious magazine as a Tyranitar from one billion years into the future 
+996,Frigibax,Dragon,Ice,5,170,Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy  The higher the temperature  the more energy Frigibax stores 
+997,Arctibax,Dragon,Ice,8,300,Arctibax freezes the air around it  protecting its face with an ice mask and turning its dorsal fin into a blade of ice 
+998,Baxcalibur,Dragon,Ice,21,2100,This Pokémon blasts cryogenic air out from its mouth  This air can instantly freeze even liquid-hot lava 
+999,Gimmighoul,Ghost,,3,50,This Pokémon was born inside a treasure chest about 1 500 years ago  It sucks the life-force out of scoundrels who try to steal the treasure 
+1000,Gholdengo,Steel,Ghost,12,300,Its body seems to be made up of 1 000 coins  This Pokémon gets along well with others and is quick to make friends with anybody 
+1001,Wo-chien,Dark,Grass,15,742,The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon 
+1002,Chien-pao,Dark,Ice,19,1522,This Pokémon can control 100 tons of fallen snow  It plays around innocently by leaping in and out of avalanches it has caused 
+1003,Ting-lu,Dark,Ground,27,6997,The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon 
+1004,Chi-yu,Dark,Fire,4,49,It controls flames burning at over 5 400 degrees Fahrenheit  It casually swims through the sea of lava it creates by melting rock and sand 
+1005,Roaring-moon,Dragon,Dark,20,3800,It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries 
+1006,Iron-valiant,Fairy,Fighting,14,350,It has some similarities to a mad scientist’s invention covered in a paranormal magazine 
+1007,Koraidon,Fighting,Dragon,25,3030,This seems to be the Winged King mentioned in an old expedition journal  It was said to have split the land with its bare fists 
+1008,Miraidon,Electric,Dragon,35,2400,Much remains unknown about this creature  It resembles Cyclizar  but it is far more ruthless and powerful 
+1009,Walking-wake,Water,Dragon,35,2800,This ferocious creature is shrouded in mystery  It's named after an aquatic monster mentioned in an old expedition journal 
+1010,Iron-leaves,Grass,Psychic,15,1250,Many of its physical characteristics match those of a Virizion from the future that was covered in a paranormal magazine 
+1011,Dipplin,Grass,Dragon,4,97,Dipplin is two creatures in one Pokémon  Its evolution was triggered by a special apple grown only in one place 
+1012,Poltchageist,Grass,Ghost,1,11,Supposedly  the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon 
+1013,Sinistcha,Grass,Ghost,2,22,It pretends to be tea  trying to fool people into drinking it so it can drain their life-force  Its ruse is generally unsuccessful 
+1014,Okidogi,Poison,Fighting,18,922,After all its muscles were stimulated by the toxic chain around its neck  Okidogi transformed and gained a powerful physique 
+1015,Munkidori,Poison,Psychic,10,122,The chain is made from toxins that enhance capabilities  It stimulated Munkidori's brain and caused the Pokémon's psychic powers to bloom 
+1016,Fezandipiti,Poison,Fairy,14,301,Fezandipiti owes its beautiful looks and lovely voice to the toxic stimulants emanating from the chain wrapped around its body 
+1017,Ogerpon,Grass,,12,398,This Pokémon's type changes based on which mask it's wearing  It confounds its enemies with nimble movements and kicks 
+1018,Archaludon,Steel,Dragon,20,600,It gathers static electricity from its surroundings  The beams it launches when down on all fours are tremendously powerful 
+1019,Hydrapple,Grass,Dragon,18,930,Seven syrpents live inside an apple made of syrup  The syrpent in the center is the commander 
+1020,Gouging-fire,Fire,Dragon,35,5900,There are scant few reports of this creature being sighted  One short video shows it rampaging and spouting pillars of flame 
+1021,Raging-bolt,Electric,Dragon,52,4800,It's said to incinerate everything around it with lightning launched from its fur  Very little is known about this creature 
+1022,Iron-boulder,Rock,Psychic,15,1625,It resembles a Pokémon described in a dubious magazine as a Terrakion that had been modified by an evil organization 
+1023,Iron-crown,Steel,Psychic,16,1560,It resembles a mysterious object introduced in a paranormal magazine as a cutting-edge weapon shaped like a Cobalion 
+1024,Terapagos,Normal,,2,65,Terapagos protects itself using its power to transform energy into hard crystals  This Pokémon is the source of the Terastal phenomenon 
+1025,Pecharunt,Poison,Ghost,3,3,It feeds others toxic mochi that draw out desires and capabilities  Those who eat the mochi fall under Pecharunt’s control  chained to its will 

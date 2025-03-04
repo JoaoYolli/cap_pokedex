@@ -1,9 +1,10 @@
 namespace sap.capire.Pokedex; 
 
 entity PokeHab{
-    pkID : Integer;
-    abID : Integer;
-    habilidad : Association to one Habilidades on habilidad.ID = $self.abID
+key id : Integer;
+   pkID : Integer;
+   abID : Integer;
+       habilidad : Association to one Habilidades on habilidad.ID = $self.abID
 }
 
 entity Habilidades{
